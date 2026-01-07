@@ -60756,7 +60756,7 @@
   "type": "Other",
   "market_hash_name": "Sticker Slab | Hippocamp (Holo)",
   "effect": "Holo",
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/bestiary_capsule/hippocamp_holo_1355_37.f06702d1bca87cc0665327d2978d0a6422e37cb5.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMikJm-e5ERsy4T1-kryTRi-lp_w7S1Y7v--V6xiLP-sXzTFlNEl569vH3_kxU8j4j-Gm9euIiiXaAAlCZB3EeUDtRjskoXhM-jgsgbZ2NlA02yg2Xm5geK-",
   "original": {
    "name": "bestiary_hippocamp_holo",
    "image_inventory": "econ/stickers/bestiary_capsule/hippocamp_holo_1355_37"
@@ -293250,7 +293250,7 @@
    "dob": "1997-03-30",
    "geo": "FI"
   },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cph2024/sig_aleksib_glitter_champion_1355_37.a6b5ff89ae53fd05b73b1dc9a657064ba08630c2.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmxPSnHtwI6547z1VjrRBbil5Tf-i5S--areptuKPGeHm6fz9En47Q8cHrk2xxxsWiDnNegIC6SbVB0CpciQuRYs0Trm4XhMu3i4QGM2otNyy_-3ShXrnE8jTRQbFo",
   "original": {
    "name": "cph2024_signature_aleksib_32_glitter",
    "image_inventory": "econ/stickers/cph2024/sig_aleksib_glitter_champion_1355_37"
@@ -322504,7 +322504,7 @@
    "geo": "PL",
    "name": "Virtus.Pro"
   },
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/aus2025/vp_gold_1355_37.341e1e23c18b186927c2c7d24a40d7b405842051.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMu0JinHtwM64pfL7VbrRSKgzcO1wnEMoaH6OaE8JaLADTbIw78u5rg7GCrhlkoj4WmEzt_9dimTbgMoDpBwQOYU8k7vQRY4tPc",
   "original": {
    "name": "aus2025_team_vp_gold",
    "image_inventory": "econ/stickers/aus2025/vp_gold_1355_37"
@@ -354028,7 +354028,7 @@
   "type": "Other",
   "market_hash_name": "Sticker Slab | World Eaters 2",
   "effect": "Other",
-  "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/warhammer_decals/paper_world_eaters_2_1355_37.19614ef69d9596f4fdfd2a2c013a4c6994257e41.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjj60vvQBD8m4Tf-SdY7v69J7RsMPWBMXCf0-Jyj-RoWyyhhiJ1jGzWz9rGcnyJbw8mC5YlE-ED5hm9m9KxM7y2sVHc2okWzS393y4a6CZi5-0HVvYh-7qX0V-giUj5ZQ",
   "original": {
    "name": "paper_world_eaters_2",
    "image_inventory": "econ/stickers/community/warhammer_decals/paper_world_eaters_2_1355_37"
@@ -390070,7 +390070,7 @@
  },
  {
   "id": "sticker_slab-10294",
-  "name": "Слэб | apEX (Champion) | Budapest 2025",
+  "name": "Слэб | apEX (чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10294",
   "rarity": {
@@ -390082,7 +390082,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390106,7 +390106,7 @@
    "dob": "1993-02-22",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOnZ7h8DJS4PyROfc4dc_AWSnAkLl0suI8GH62w0gk4mTVmNqrdinEPAElD5VxQOcJskGwlYDiMujk-UWA3CC-8adl",
   "original": {
    "name": "bud2025_signature_apex_32",
    "image_inventory": "econ/stickers/bud2025/sig_apex_champion_1355_37"
@@ -390114,7 +390114,7 @@
  },
  {
   "id": "sticker_slab-10295",
-  "name": "Слэб | apEX (Embroidered, Champion) | Budapest 2025",
+  "name": "Слэб | apEX (вышитая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10295",
   "rarity": {
@@ -390126,7 +390126,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390150,7 +390150,7 @@
    "dob": "1993-02-22",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_embroidered_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOnZ7h8DJS4PyRbalvMv-aCmKCxOpJ4bI8GhbgwlN3tmSHzYmgIi-XOwRxCJYkReIJtBm7w4a2MO3isgeKjYoWn377iXwd8G81tBXKr1dA",
   "original": {
    "name": "bud2025_signature_apex_32_embroidered",
    "image_inventory": "econ/stickers/bud2025/sig_apex_champion_embroidered_1355_37"
@@ -390158,7 +390158,7 @@
  },
  {
   "id": "sticker_slab-10296",
-  "name": "Слэб | apEX (Holo, Champion) | Budapest 2025",
+  "name": "Слэб | apEX (голографическая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10296",
   "rarity": {
@@ -390170,7 +390170,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390194,7 +390194,7 @@
    "dob": "1993-02-22",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_holo_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOnZ7h8DJS4PyRYKthL8_CXTLF_r0h_uBsSyrglxl3sWmAmN-sJC2eaQB1D5UkE-8D4Bi-ktfgNeLmslGL34hbjXKpL21WbK0",
   "original": {
    "name": "bud2025_signature_apex_32_holo",
    "image_inventory": "econ/stickers/bud2025/sig_apex_champion_holo_1355_37"
@@ -390202,7 +390202,7 @@
  },
  {
   "id": "sticker_slab-10297",
-  "name": "Слэб | apEX (Gold, Champion) | Budapest 2025",
+  "name": "Слэб | apEX (золотая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10297",
   "rarity": {
@@ -390214,7 +390214,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390238,7 +390238,7 @@
    "dob": "1993-02-22",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_apex_champion_gold_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1Vj3RAXOnZ7h8DJS4PyRb6thJM_CXTLF_r0h_rU5Fivjwh8i52mDw938cy-ePQVxXJMhR-8Ls0G5w9KxMLu2swDYiYhbjXKpung0Zx8",
   "original": {
    "name": "bud2025_signature_apex_32_gold",
    "image_inventory": "econ/stickers/bud2025/sig_apex_champion_gold_1355_37"
@@ -390246,7 +390246,7 @@
  },
  {
   "id": "sticker_slab-10298",
-  "name": "Слэб | FlameZ (Champion) | Budapest 2025",
+  "name": "Слэб | FlameZ (чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10298",
   "rarity": {
@@ -390258,7 +390258,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390282,7 +390282,7 @@
    "dob": "1970-01-01",
    "geo": "IL"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnj9SNW__uhZps8c6XGMTTHj7wntbA7SXjqzE4m4myBno76dC7CbVIhApByQuYIsEWwwdXhMe-07wXAy9USRzkbj2g",
   "original": {
    "name": "bud2025_signature_flamez_32",
    "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_1355_37"
@@ -390290,7 +390290,7 @@
  },
  {
   "id": "sticker_slab-10299",
-  "name": "Слэб | FlameZ (Embroidered, Champion) | Budapest 2025",
+  "name": "Слэб | FlameZ (вышитая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10299",
   "rarity": {
@@ -390302,7 +390302,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390326,7 +390326,7 @@
    "dob": "1970-01-01",
    "geo": "IL"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_embroidered_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnj9SNW__uhZptoLfKBAW6UxPxztN44HHzmqk5w_WjTzIz7dXyXblByA8QiROFf5xSww9PvY-Pr5Ffdjt1ExCv6j3lJ7S51o7FViTEcdQ0",
   "original": {
    "name": "bud2025_signature_flamez_32_embroidered",
    "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_embroidered_1355_37"
@@ -390334,7 +390334,7 @@
  },
  {
   "id": "sticker_slab-10300",
-  "name": "Слэб | FlameZ (Holo, Champion) | Budapest 2025",
+  "name": "Слэб | FlameZ (голографическая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10300",
   "rarity": {
@@ -390346,7 +390346,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390370,7 +390370,7 @@
    "dob": "1970-01-01",
    "geo": "IL"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_holo_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnj9SNW__uhZptlL_ycMTbDlLtJ47YnF3y1zBhx52SGnomrcnyRaAAoW8ckR7UNtxOwx4K0PrywswDZjY5DzTK-0H3VJ0pIFQ",
   "original": {
    "name": "bud2025_signature_flamez_32_holo",
    "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_holo_1355_37"
@@ -390378,7 +390378,7 @@
  },
  {
   "id": "sticker_slab-10301",
-  "name": "Слэб | FlameZ (Gold, Champion) | Budapest 2025",
+  "name": "Слэб | FlameZ (золотая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10301",
   "rarity": {
@@ -390390,7 +390390,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390414,7 +390414,7 @@
    "dob": "1970-01-01",
    "geo": "IL"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_flamez_champion_gold_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1V_rQBD0hKnj9SNW__uhZptqL_yXMTbDlLtJ47YnFyuxlE0l4T-Dyd36dimWOAB1DJYjQOAKsUG6k9e2Nr7r41ONjYpFnjK-0H0oiEwH9g",
   "original": {
    "name": "bud2025_signature_flamez_32_gold",
    "image_inventory": "econ/stickers/bud2025/sig_flamez_champion_gold_1355_37"
@@ -390422,7 +390422,7 @@
  },
  {
   "id": "sticker_slab-10302",
-  "name": "Слэб | mezii (Champion) | Budapest 2025",
+  "name": "Слэб | mezii (чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10302",
   "rarity": {
@@ -390434,7 +390434,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390458,7 +390458,7 @@
    "dob": "1970-01-01",
    "geo": "GB"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZXo_C9L5v2gV_U-daWsXTDexb11tbQ7TXvnlB9x5jmEzd6reHLDalUnDJZwE7MK5hS6k93iYr-x5Rue1dydWvwSKA",
   "original": {
    "name": "bud2025_signature_mezii_32",
    "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_1355_37"
@@ -390466,7 +390466,7 @@
  },
  {
   "id": "sticker_slab-10303",
-  "name": "Слэб | mezii (Embroidered, Champion) | Budapest 2025",
+  "name": "Слэб | mezii (вышитая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10303",
   "rarity": {
@@ -390478,7 +390478,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390502,7 +390502,7 @@
    "dob": "1970-01-01",
    "geo": "GB"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_embroidered_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZXo_C9L5v2gV6FgIuKcB2OV0-tyj7A6GnyMxkpp5j-GytysdXiXb1AmCschEbYM5hTrxtDkNOmz5wCLiYITmCut3XxK7DErvbijqsa7ZQ",
   "original": {
    "name": "bud2025_signature_mezii_32_embroidered",
    "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_embroidered_1355_37"
@@ -390510,7 +390510,7 @@
  },
  {
   "id": "sticker_slab-10304",
-  "name": "Слэб | mezii (Holo, Champion) | Budapest 2025",
+  "name": "Слэб | mezii (голографическая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10304",
   "rarity": {
@@ -390522,7 +390522,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390546,7 +390546,7 @@
    "dob": "1970-01-01",
    "geo": "GB"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_holo_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZXo_C9L5v2gV6xiLP-sXzTFlNEl569oGCjlzU5x6mWEytuudyjCOw52WZZ1EO4OthLrmoDiMOvgtgKKiI5N02yg2cMPpksg",
   "original": {
    "name": "bud2025_signature_mezii_32_holo",
    "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_holo_1355_37"
@@ -390554,7 +390554,7 @@
  },
  {
   "id": "sticker_slab-10305",
-  "name": "Слэб | mezii (Gold, Champion) | Budapest 2025",
+  "name": "Слэб | mezii (золотая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10305",
   "rarity": {
@@ -390566,7 +390566,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390590,7 +390590,7 @@
    "dob": "1970-01-01",
    "geo": "GB"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_mezii_champion_gold_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1VTiWxT4oZXo_C9L5v2gV6NiLPSsXzTFlNEl5687G37kw0p2sGzRm9moJyiUZ1V1ApMhQeUCuhexxobnP--zsQbZ2tpN02yg2doxFN-v",
   "original": {
    "name": "bud2025_signature_mezii_32_gold",
    "image_inventory": "econ/stickers/bud2025/sig_mezii_champion_gold_1355_37"
@@ -390598,7 +390598,7 @@
  },
  {
   "id": "sticker_slab-10306",
-  "name": "Слэб | ropz (Champion) | Budapest 2025",
+  "name": "Слэб | ropz (чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10306",
   "rarity": {
@@ -390610,7 +390610,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390634,7 +390634,7 @@
    "dob": "1999-12-22",
    "geo": "EE"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOnZ7h8DJS4PyROfc4dc_AWSnDl-8jtOI-G3jqwkhw6ziEw9ereX6faFUhA5ojFLULtRa6w920NuO2-UWA3B3P8kiW",
   "original": {
    "name": "bud2025_signature_ropz_32",
    "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_1355_37"
@@ -390642,7 +390642,7 @@
  },
  {
   "id": "sticker_slab-10307",
-  "name": "Слэб | ropz (Embroidered, Champion) | Budapest 2025",
+  "name": "Слэб | ropz (вышитая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10307",
   "rarity": {
@@ -390654,7 +390654,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390678,7 +390678,7 @@
    "dob": "1999-12-22",
    "geo": "EE"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_embroidered_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOnZ7h8DJS4PyRbalvMv-aCmKCxOpJ4bI8GhbgwlNy4GjWyN6qdHyTbQ5xWZAkQrMKthO7xNSzY7_l4APcg4sXzyv6iSpB8G81tOuUSqoq",
   "original": {
    "name": "bud2025_signature_ropz_32_embroidered",
    "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_embroidered_1355_37"
@@ -390686,7 +390686,7 @@
  },
  {
   "id": "sticker_slab-10308",
-  "name": "Слэб | ropz (Holo, Champion) | Budapest 2025",
+  "name": "Слэб | ropz (голографическая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10308",
   "rarity": {
@@ -390698,7 +390698,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390722,7 +390722,7 @@
    "dob": "1999-12-22",
    "geo": "EE"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_holo_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOnZ7h8DJS4PyRYKthL8_CXTLF_r0h_rE9SS3rlk4i4mSAw4r6JX2XbQAiApUmE-cKsBG9mtznPu_qsQ3b3olbjXKp1IKjffA",
   "original": {
    "name": "bud2025_signature_ropz_32_holo",
    "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_holo_1355_37"
@@ -390730,7 +390730,7 @@
  },
  {
   "id": "sticker_slab-10309",
-  "name": "Слэб | ropz (Gold, Champion) | Budapest 2025",
+  "name": "Слэб | ropz (золотая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10309",
   "rarity": {
@@ -390742,7 +390742,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390766,7 +390766,7 @@
    "dob": "1999-12-22",
    "geo": "EE"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_ropz_champion_gold_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UvoUQfOnZ7h8DJS4PyRb6thJM_CXTLF_r0h_uBrGHGwkRhzt2_QzYz6dH3DPFAlCJYiEOdctBDtm4a2M76051OLiNlbjXKpy8Ukvao",
   "original": {
    "name": "bud2025_signature_ropz_32_gold",
    "image_inventory": "econ/stickers/bud2025/sig_ropz_champion_gold_1355_37"
@@ -390774,7 +390774,7 @@
  },
  {
   "id": "sticker_slab-10310",
-  "name": "Слэб | ZywOo (Champion) | Budapest 2025",
+  "name": "Слэб | ZywOo (чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10310",
   "rarity": {
@@ -390786,7 +390786,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390810,7 +390810,7 @@
    "dob": "2000-11-09",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV_U-daWsXTDek7ci5OIxFi2xxRh_6muEzomhd3zFbQQgA5IkELQL5ETukIW1Nb_n4Rue1dzCAFSUGg",
   "original": {
    "name": "bud2025_signature_zywoo_32",
    "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_1355_37"
@@ -390818,7 +390818,7 @@
  },
  {
   "id": "sticker_slab-10311",
-  "name": "Слэб | ZywOo (Embroidered, Champion) | Budapest 2025",
+  "name": "Слэб | ZywOo (вышитая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10311",
   "rarity": {
@@ -390830,7 +390830,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390854,7 +390854,7 @@
    "dob": "2000-11-09",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_embroidered_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV6FgIuKcB2OV0-tyj7A6GnyMxkpp4zyHw9mvc3_GbAR0X5N1E-AJt0W9mtbhYu7m5gKMjN1Cnnr2iiJI6zErvbh6fULAKw",
   "original": {
    "name": "bud2025_signature_zywoo_32_embroidered",
    "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_embroidered_1355_37"
@@ -390862,7 +390862,7 @@
  },
  {
   "id": "sticker_slab-10312",
-  "name": "Слэб | ZywOo (Holo, Champion) | Budapest 2025",
+  "name": "Слэб | ZywOo (голографическая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10312",
   "rarity": {
@@ -390874,7 +390874,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390898,7 +390898,7 @@
    "dob": "2000-11-09",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_holo_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV6xiLP-sXzTFlNEl5684GHzixR5z5jmDntb4ci_DPAMgXpB2QLNZ4xe8xtHvNu_h5FPdit1H02yg2fxA9Vj6",
   "original": {
    "name": "bud2025_signature_zywoo_32_holo",
    "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_holo_1355_37"
@@ -390906,7 +390906,7 @@
  },
  {
   "id": "sticker_slab-10313",
-  "name": "Слэб | ZywOo (Gold, Champion) | Budapest 2025",
+  "name": "Слэб | ZywOo (золотая, чемпион) | Будапешт-2025",
   "description": "Эта наклейка надёжно запаяна в слэбе. Её можно в любое время вернуть в свой инвентарь, разбив и выбросив слэб.<br><br>Этот брелок можно прикрепить к любому вашему оружию. Брелок можно снять с помощью отделителя. Снятые брелки возвращаются в инвентарь.",
   "def_index": "10313",
   "rarity": {
@@ -390918,7 +390918,7 @@
    {
     "id": "crate-5233",
     "name": "Капсула с автографами чемпионов StarLadder Budapest Major 2025",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions_png.png"
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhUmvi2MlYHqby_EagclDpVxEbRf5hDrm4DmNbjmtAzbjotHmS_6iChOvys64bpRWKo7uvqAkjbOjYw"
    }
   ],
   "collections": [],
@@ -390942,7 +390942,7 @@
    "dob": "2000-11-09",
    "geo": "FR"
   },
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/bud2025/sig_zywoo_champion_gold_1355_37_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV6NiLPSsXzTFlNEl568wHn3glx905WTWwo3_c33BZ1chDMdzROdct0Kxx9PkP-m34VGLio5D02yg2bKDXo2Z",
   "original": {
    "name": "bud2025_signature_zywoo_32_gold",
    "image_inventory": "econ/stickers/bud2025/sig_zywoo_champion_gold_1355_37"
