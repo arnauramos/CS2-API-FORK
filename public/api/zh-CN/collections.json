@@ -16243,7 +16243,7 @@
  },
  {
   "id": "collection-set-overpass-2024",
-  "name": "死亡游乐园2024收藏品",
+  "name": "2024 死亡游乐园收藏品",
   "crates": [
    {
     "id": "crate-5221",
@@ -16624,6 +16624,17 @@
   }
  },
  {
+  "id": "collection-set-timed-drops-achroma",
+  "name": "墨彩收藏品",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png",
+  "original": {
+   "name": "#CSGO_set_timed_drops_achroma",
+   "image_inventory": "econ/set_icons/set_timed_drops_achroma"
+  }
+ },
+ {
   "id": "collection-set-timed-drops-cool",
   "name": "攀升收藏品",
   "crates": [],
@@ -16941,6 +16952,17 @@
   "original": {
    "name": "#CSGO_set_timed_drops_cool",
    "image_inventory": "econ/set_icons/set_timed_drops_cool"
+  }
+ },
+ {
+  "id": "collection-set-timed-drops-exuberant",
+  "name": "哈乐昆收藏品",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png",
+  "original": {
+   "name": "#CSGO_set_timed_drops_exuberant",
+   "image_inventory": "econ/set_icons/set_timed_drops_exuberant"
   }
  },
  {

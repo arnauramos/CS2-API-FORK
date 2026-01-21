@@ -8133,7 +8133,7 @@
    },
    {
     "id": "skin-081963f17f9c",
-    "name": "XM1014 | Поток",
+    "name": "XM1014 | Slipstream",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -8477,7 +8477,7 @@
   "contains": [
    {
     "id": "skin-f945b5be9ee1",
-    "name": "ПП-19 «Бизон» | Вихрь джунглей",
+    "name": "ПП-19 «Бизон» | Jungle Slipstream",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -8953,7 +8953,7 @@
    },
    {
     "id": "skin-5c7aa5998b21",
-    "name": "SCAR-20 | Вихрь джунглей",
+    "name": "SCAR-20 | Jungle Slipstream",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16624,6 +16624,17 @@
   }
  },
  {
+  "id": "collection-set-timed-drops-achroma",
+  "name": "The Achroma Collection",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png",
+  "original": {
+   "name": "#CSGO_set_timed_drops_achroma",
+   "image_inventory": "econ/set_icons/set_timed_drops_achroma"
+  }
+ },
+ {
   "id": "collection-set-timed-drops-cool",
   "name": "Коллекция «Восхождение»",
   "crates": [],
@@ -16941,6 +16952,17 @@
   "original": {
    "name": "#CSGO_set_timed_drops_cool",
    "image_inventory": "econ/set_icons/set_timed_drops_cool"
+  }
+ },
+ {
+  "id": "collection-set-timed-drops-exuberant",
+  "name": "The Harlequin Collection",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png",
+  "original": {
+   "name": "#CSGO_set_timed_drops_exuberant",
+   "image_inventory": "econ/set_icons/set_timed_drops_exuberant"
   }
  },
  {
