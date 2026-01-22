@@ -8400,6 +8400,73 @@
   }
  },
  {
+  "id": "skin-9197715f9f3f",
+  "name": "AK-47 | Aphrodite",
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "gsch_ak_djiin",
+   "name": "Aphrodite"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Covert",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1397",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Limited Edition Item",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_gsch_ak_djiin_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
   "id": "skin-81d44fd69bbd",
   "name": "AK-47 | Olive Polycam",
   "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted using a green and grey halftone pattern.\\n\\n<i>Attention to detail</i>",
@@ -9028,6 +9095,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC6s2vY_A6H_6cG3GVwPtJvOhuRz39zBsm5j-HyNqpd32fPVd1AsB3RbEP4xntwdPuM-jl4QaK2NpCzX_23DQJsHjpyGbntg",
+  "original": {
+   "name": "weapon_ak47"
+  }
+ },
+ {
+  "id": "skin-a92d1a70ebc1",
+  "name": "AK-47 | Breakthrough",
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A grayscale pattern featuring aggressive \\\"zed\\\" designs has been applied over a carbon fiber base.\\n\\n<i>+5 Weapon Handling Speed</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_zeds",
+   "name": "Breakthrough"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1358",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_hye_zeds_light_png.png",
   "original": {
    "name": "weapon_ak47"
   }
@@ -12463,6 +12597,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1k_OaheqlrMv-dGlicyOl-pK84GCzkxEkisDnUz42qc32WaVckW5AhQeVYs0W9wIfuP7i34laK2d9G02yg2S19fQbA",
+  "original": {
+   "name": "weapon_aug"
+  }
+ },
+ {
+  "id": "skin-784a6c99447c",
+  "name": "AUG | Creep",
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted with gnarled branches and birds over a silver base.\\n\\n<i>\\\"They're circling...\\\"</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "soe_aug_creep",
+   "name": "Creep"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1362",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_soe_aug_creep_light_png.png",
   "original": {
    "name": "weapon_aug"
   }
@@ -16229,6 +16430,140 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf9Ttk9f2qYaVucs-fB2CY1aAnteVqHCzgkRsh4TnXyY2vIH-QaVcpA5F3TOdct0S_wNO0Zri05wbXlcsbmn9hB4gb",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-d384f428d432",
+  "name": "AWP | Exothermic",
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A red-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_firework_patches",
+   "name": "Exothermic"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1378",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_hye_firework_patches_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
+  "id": "skin-76f19247a21d",
+  "name": "AWP | The End",
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using eggplant and white colors with flames, roses, and \\\"the end\\\" in front of the trigger.\\n\\n<i>A tale of two sides</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "soe_bw_the_end_awp",
+   "name": "The End"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1356",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_soe_bw_the_end_awp_light_png.png",
   "original": {
    "name": "weapon_awp"
   }
@@ -21331,6 +21666,140 @@
   }
  },
  {
+  "id": "skin-66a37bb94450",
+  "name": "PP-Bizon | Bizoom",
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. A grayscale pattern has been applied.\\n\\n<i>Quickly, please!</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_car_wrap_bizon",
+   "name": "Bizoom"
+  },
+  "min_float": 0,
+  "max_float": 0.58,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1374",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_car_wrap_bizon_light_png.png",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-8ac8f9231892",
+  "name": "PP-Bizon | Thermal Currents",
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. Silver birds have been applied over a wine-colored pattern.\\n\\n<i>How's the view up there?</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "PP-Bizon"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_geobirds_sunrise",
+   "name": "Thermal Currents"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1392",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_geobirds_sunrise_light_png.png",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
   "id": "skin-d1fdc1f566f3",
   "name": "PP-Bizon | Seabird",
   "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has individual parts spray-painted solid colors in an aqua and tan color scheme.\\n\\n<i>Mine.</i>",
@@ -24211,6 +24680,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s25baZ-H_yaCW-Ej-0u4-VsH3G2x0x-sGXQyY76JXPGOAQkCMAlR-YNsBDqxtHhZerjsgTAy9USIjIDnE8",
+  "original": {
+   "name": "weapon_cz75a"
+  }
+ },
+ {
+  "id": "skin-56333a38bf41",
+  "name": "CZ75-Auto | Honey Paisley",
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a gold-colored paisley pattern over a wine-colored base.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "weapon": {
+   "id": "weapon_cz75a",
+   "weapon_id": 63,
+   "name": "CZ75-Auto"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "hye_paisley_desat",
+   "name": "Honey Paisley"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1390",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_hye_paisley_desat_light_png.png",
   "original": {
    "name": "weapon_cz75a"
   }
@@ -27678,6 +28214,73 @@
   }
  },
  {
+  "id": "skin-442d3266f2ac",
+  "name": "Desert Eagle | The Daily Deagle",
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A grayscale pattern has been applied.\\n\\n<i>From the pages of your favorite graphic novel</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "hye_car_wrap",
+   "name": "The Daily Deagle"
+  },
+  "min_float": 0,
+  "max_float": 0.58,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1360",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_hye_car_wrap_light_png.png",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
   "id": "skin-07884f77d452",
   "name": "Desert Eagle | Night",
   "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
@@ -30672,6 +31275,73 @@
   }
  },
  {
+  "id": "skin-6e77ad6f522c",
+  "name": "Dual Berettas | Silver Pour",
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. A grayscale acrylic pour pattern has been applied.\\n\\n<i>In the end it all seems to come together</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soe_acrylic_flow3",
+   "name": "Silver Pour"
+  },
+  "min_float": 0,
+  "max_float": 0.678431,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1373",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_soe_acrylic_flow3_light_png.png",
+  "original": {
+   "name": "weapon_elite"
+  }
+ },
+ {
   "id": "skin-b6116401828b",
   "name": "Dual Berettas | Rose Nacre",
   "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. The metal of these Dual Berettas has been painted rose gold and the grips are a nacred, deep jade color.\\n\\n<i>You can't make an omelette without cracking a few jeweled eggs</i>",
@@ -33247,6 +33917,73 @@
   }
  },
  {
+  "id": "skin-f9f850e1e389",
+  "name": "FAMAS | Byproduct",
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A gold-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_firework_patches_famas",
+   "name": "Byproduct"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1393",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_hye_firework_patches_famas_light_png.png",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
   "id": "skin-e56f49876bdd",
   "name": "FAMAS | Colony",
   "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has individual parts spray-painted khaki and grey.",
@@ -33387,6 +34124,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4PeRaqh4Jc-VD2qR0tF6ueZhW2fjk01x5jiBytqveXiWOFcnDJMmQeMLskPrmoCzYrzn7wPd3d1Fnyv8kGoXufV393rw",
+  "original": {
+   "name": "weapon_famas"
+  }
+ },
+ {
+  "id": "skin-7f85393d2fb1",
+  "name": "FAMAS | Vendetta",
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted with a woodgrain pattern using high gloss paint.\\n\\n<i>Here—an axe for you to grind... - Booth, Arms Dealer</i>",
+  "weapon": {
+   "id": "weapon_famas",
+   "weapon_id": 10,
+   "name": "FAMAS"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "soe_bw_blast",
+   "name": "Vendetta"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1365",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_soe_bw_blast_light_png.png",
   "original": {
    "name": "weapon_famas"
   }
@@ -36779,6 +37583,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6toH_KfG2KvwOByj-JhXSa-kCIrujqNjsGueHuXb1VxDZRzFuJe5BC4w4XnYbnj5A2NjIMUyyr3iikY6Cc4tecBT-N7rc172J_D",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
+  "id": "skin-6f23920b8406",
+  "name": "Five-SeveN | Fraise Crane",
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A pink and white pattern of cranes and flowers has been applied.\\n\\n<i>Best paired with a glass of sherry</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soe_pink_cranes",
+   "name": "Fraise Crane"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1380",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_soe_pink_cranes_light_png.png",
   "original": {
    "name": "weapon_fiveseven"
   }
@@ -41591,6 +42462,73 @@
   }
  },
  {
+  "id": "skin-49296f9e5232",
+  "name": "Galil AR | Sky Mandala",
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "weapon": {
+   "id": "weapon_galilar",
+   "weapon_id": 13,
+   "name": "Galil AR"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_earth_mandala",
+   "name": "Sky Mandala"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1383",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_hye_earth_mandala_light_png.png",
+  "original": {
+   "name": "weapon_galilar"
+  }
+ },
+ {
   "id": "skin-1caaee847d10",
   "name": "Galil AR | Acid Dart",
   "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A green and yellow hydrographic pattern has been applied\\n\\n<i>Let it rip</i>",
@@ -45795,6 +46733,73 @@
   }
  },
  {
+  "id": "skin-9eb900056828",
+  "name": "Glock-18 | Trace Lock",
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A grayscale pattern of circles has been applied underneath a holographic design.\\n\\n<i>Graphical maps of holographic systems</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "ht_white_edges",
+   "name": "Trace Lock"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1357",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_ht_white_edges_light_png.png",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
   "id": "skin-46fa4ce20e23",
   "name": "Glock-18 | Blue Fissure",
   "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic in a craquelure pattern.",
@@ -49304,6 +50309,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhV6N_IeOAAmaexdF6ueZhW2fkzEght2zVnIz_cXrCPQEmA5IhE7FZ4BG-x4GyY-rr5wWNj4kXyi_2kGoXucFfluJI",
+  "original": {
+   "name": "weapon_hkp2000"
+  }
+ },
+ {
+  "id": "skin-a5639c9731c1",
+  "name": "P2000 | Grip Tape",
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A pattern using different sheens of silver paint has been applied. Parts of the grip have been painted using a dark, matte paint to resemble grip tape.\\n\\n<i>Hold tight!</i>",
+  "weapon": {
+   "id": "weapon_hkp2000",
+   "weapon_id": 32,
+   "name": "P2000"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soe_p2000_grips",
+   "name": "Grip Tape"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1359",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_soe_p2000_grips_light_png.png",
   "original": {
    "name": "weapon_hkp2000"
   }
@@ -87175,6 +88247,73 @@
   }
  },
  {
+  "id": "skin-81cd69f7a061",
+  "name": "M249 | Sleet",
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "weapon": {
+   "id": "weapon_m249",
+   "weapon_id": 14,
+   "name": "M249"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "hye_m249_car_wrap_3",
+   "name": "Sleet"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1370",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_hye_m249_car_wrap_3_light_png.png",
+  "original": {
+   "name": "weapon_m249"
+  }
+ },
+ {
   "id": "skin-bfdabc8fd9fa",
   "name": "M249 | Sage Camo",
   "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. A green and grey hydrographic pattern has been applied.\\n\\n<i>\\\"We weren't sure if we were the ambushers... or the ambushees\\\"</i>",
@@ -90774,6 +91913,73 @@
   }
  },
  {
+  "id": "skin-9449a702cb3c",
+  "name": "M4A4 | Aeolian Dark",
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_abstract_knot_m4",
+   "name": "Aeolian Dark"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1364",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_hye_abstract_knot_m4_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-c096d50b4039",
   "name": "M4A4 | Naval Shred Camo",
   "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A blue tiger camo pattern has been applied.\\n\\n<i>Endangered no more</i>",
@@ -94014,6 +95220,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKMXGR0-d1sexmcCW6khUz_WjSw9qgd32TaAV1DMAlRrNcuhG7xt2yM-_ktlHW2tlHxHqs2iJI7yZ1o7FVeF8MW04",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-bc5a36f177b0",
+  "name": "M4A1-S | Party Animal",
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_animal_print_90s",
+   "name": "Party Animal"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Classified",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1376",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_animal_print_90s_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -98049,6 +99322,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s24bbZ5KfecHXeCwPdJsu18Sha_nBovp3PTmIuoJ3yVa1clXMB4TbEOsBHtwdHiZO-x7gWN2d8XyS_4i3xM53k4_a9cBrlyT3NZ",
+  "original": {
+   "name": "weapon_mac10"
+  }
+ },
+ {
+  "id": "skin-d269db65b6ea",
+  "name": "MAC-10 | Snow Splash",
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_car_wrap4",
+   "name": "Snow Splash"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1367",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_hye_car_wrap4_light_png.png",
   "original": {
    "name": "weapon_mac10"
   }
@@ -103590,6 +104930,73 @@
   }
  },
  {
+  "id": "skin-2787809612be",
+  "name": "MP5-SD | Snow Splash",
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "weapon": {
+   "id": "weapon_mp5sd",
+   "weapon_id": 23,
+   "name": "MP5-SD"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_mp5_car_wrap4",
+   "name": "Snow Splash"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1366",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_hye_mp5_car_wrap4_light_png.png",
+  "original": {
+   "name": "weapon_mp5sd"
+  }
+ },
+ {
   "id": "skin-63ed7bb762a0",
   "name": "MP5-SD | Statics",
   "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted with a black and blue design.\\n\\n<i>Black and blue and bloody all over</i>",
@@ -103798,6 +105205,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1I4M2heqVjJ_WsD2STxOBio7JWQyC0nQlp42yEzImsdH3EaAEgC8N2EeYJtRbuxtDjYr_q7weI3d5FzCz43ChOvDErvbiO5Zd60w",
+  "original": {
+   "name": "weapon_mp5sd"
+  }
+ },
+ {
+  "id": "skin-105633b3f165",
+  "name": "MP5-SD | Picnic",
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+  "weapon": {
+   "id": "weapon_mp5sd",
+   "weapon_id": 23,
+   "name": "MP5-SD"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "soe_red",
+   "name": "Picnic"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1385",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_soe_red_light_png.png",
   "original": {
    "name": "weapon_mp5sd"
   }
@@ -105964,6 +107438,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk-fO8YadsLf-sHGKU_uJ_t-l9AS3nlhhx5W7Xyo6vJHPDagQpC5d4TO4IsRWwmtSxYuzi5FfciY9CxH_gznQebimdppU",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
+  "id": "skin-33edc6632c92",
+  "name": "MP7 | Coral Paisley",
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A red and orange paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_paisley_warm",
+   "name": "Coral Paisley"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1386",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_hye_paisley_warm_light_png.png",
   "original": {
    "name": "weapon_mp7"
   }
@@ -109960,6 +111501,140 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1e0POieK1jJc-UHGKVz9F6ueZhW2fixUtwtm6Hy9urd33CbQUhDsFzF7RetxS_ldzgY7ywsVbdidkWyi6tkGoXuWJp7z88",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-fd612b65c748",
+  "name": "MP9 | Dizzy",
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "soe_ddpat_swirl_bw",
+   "name": "Dizzy"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1375",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_ddpat_swirl_bw_light_png.png",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-07db077aad75",
+  "name": "MP9 | Bee-Tron",
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. Primarily silver, the grooves of this MP9 have been filled with yellow and red paint.\\n\\n<i>Hold me back!</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "soe_yellow_bits",
+   "name": "Bee-Tron"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1388",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_yellow_bits_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -114538,6 +116213,73 @@
   }
  },
  {
+  "id": "skin-18a19585ed8f",
+  "name": "Nova | Currents",
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. A grayscale pattern highlighted by silver birds has been applied.\\n\\n<i>How's the view up there?</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "hye_geobirds",
+   "name": "Currents"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1368",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_hye_geobirds_light_png.png",
+  "original": {
+   "name": "weapon_nova"
+  }
+ },
+ {
   "id": "skin-baa1adba3189",
   "name": "Nova | Dark Sigil",
   "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted with longships and dragons.\\n\\n<i>It emerged from the fog of war</i>",
@@ -118947,6 +120689,73 @@
   }
  },
  {
+  "id": "skin-1f71b62e4990",
+  "name": "P250 | Sleet",
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "hye_car_wrap_3",
+   "name": "Sleet"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1369",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_hye_car_wrap_3_light_png.png",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
   "id": "skin-1244c7faf3ea",
   "name": "P250 | Red Tide",
   "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A wine and beige-colored coral pattern has been applied.\\n\\n<i>Nature laughed, for it created something we couldn't dream possible</i>",
@@ -122782,6 +124591,73 @@
   }
  },
  {
+  "id": "skin-59aaabe308c8",
+  "name": "P90 | Aeolian Light",
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "weapon": {
+   "id": "weapon_p90",
+   "weapon_id": 19,
+   "name": "P90"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_abstract_knot",
+   "name": "Aeolian Light"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1361",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_hye_abstract_knot_light_png.png",
+  "original": {
+   "name": "weapon_p90"
+  }
+ },
+ {
   "id": "skin-d58c4622251a",
   "name": "P90 | Reef Grief",
   "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A green and blue coral pattern has been applied.\\n\\n<i>Nature laughed, for it created something we couldn't dream possible</i>",
@@ -125842,6 +127718,73 @@
   }
  },
  {
+  "id": "skin-2f4f4e0aaa4e",
+  "name": "R8 Revolver | Mauve Aside",
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The grip has been painted with a plum-colored acrylic pour pattern.\\n\\n<i>A gentle pour</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 Revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soch_copper_accent_revolver",
+   "name": "Mauve Aside"
+  },
+  "min_float": 0,
+  "max_float": 0.80339,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1389",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_copper_accent_revolver_light_png.png",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
   "id": "skin-58d507811bd8",
   "name": "R8 Revolver | Cobalt Grip",
   "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. A blue pattern has been painted on the grip of this R8.\\n\\n<i>Get a grip!</i>",
@@ -125904,6 +127847,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_mdCm6XztFxouh5XBa_nBovp3ODyI2scn3BO1J2WJJ0F-MLsha6wNTgY7_m4VePid9AzSv4iC9LuiY5_a9cBmU4DDcB",
+  "original": {
+   "name": "weapon_revolver"
+  }
+ },
+ {
+  "id": "skin-f41134aec544",
+  "name": "R8 Revolver | Dark Chamber",
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The grip has been painted with a dark acrylic pour pattern.\\n\\n<i>Old money</i>",
+  "weapon": {
+   "id": "weapon_revolver",
+   "weapon_id": 64,
+   "name": "R8 Revolver"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soch_smoke_grips",
+   "name": "Dark Chamber"
+  },
+  "min_float": 0,
+  "max_float": 0.80339,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1363",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_smoke_grips_light_png.png",
   "original": {
    "name": "weapon_revolver"
   }
@@ -128205,6 +130215,73 @@
   }
  },
  {
+  "id": "skin-0b2ec5b2c5ef",
+  "name": "Sawed-Off | Crimson Batik",
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Sawed-Off"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "hye_batik_eyes",
+   "name": "Crimson Batik"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1391",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_hye_batik_eyes_light_png.png",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
   "id": "skin-d0653c0aaf2f",
   "name": "Sawed-Off | Analog Input",
   "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with diagonal bands of color and the letters \\\"X\\\", \\\"Y\\\", \\\"B\\\", and \\\"A\\\".\\n\\n<i>19 in 99</i>",
@@ -130249,6 +132326,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRf6FvM8-XD3WbxPxJvOhuRz39lEwhsGqBz9moJHmXawQhDsQhEOUNsBSwkdXiM-3k5AbZjo1MmSiojDQJsHiHhrZ4wA",
+  "original": {
+   "name": "weapon_scar20"
+  }
+ },
+ {
+  "id": "skin-493c652caf29",
+  "name": "SCAR-20 | Zinc",
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A grayscale pattern has been applied.\\n\\n<i>A ripple in time</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_chrome_ripple",
+   "name": "Zinc"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1371",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_hye_chrome_ripple_light_png.png",
   "original": {
    "name": "weapon_scar20"
   }
@@ -132974,6 +135118,73 @@
   }
  },
  {
+  "id": "skin-9a7b0a3e260f",
+  "name": "SG 553 | Safari Print",
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. A brown animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "weapon": {
+   "id": "weapon_sg556",
+   "weapon_id": 39,
+   "name": "SG 553"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_animal_print_lc",
+   "name": "Safari Print"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1394",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sg556_hye_animal_print_lc_light_png.png",
+  "original": {
+   "name": "weapon_sg556"
+  }
+ },
+ {
   "id": "skin-679e953fac9d",
   "name": "SG 553 | Ultraviolet",
   "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
@@ -135561,6 +137772,73 @@
   }
  },
  {
+  "id": "skin-2efacc35df16",
+  "name": "SSG 08 | Calligrafaux",
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+  "weapon": {
+   "id": "weapon_ssg08",
+   "weapon_id": 40,
+   "name": "SSG 08"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "ht_red_edges_fineline",
+   "name": "Calligrafaux"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1379",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_ht_red_edges_fineline_light_png.png",
+  "original": {
+   "name": "weapon_ssg08"
+  }
+ },
+ {
   "id": "skin-41e01b452fce",
   "name": "SSG 08 | Halftone Whorl",
   "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with a blue and green halftone whorl pattern.\\n\\n<i>Handle with care</i>",
@@ -136045,6 +138323,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s26eqVkLvGBDW-Z1et1pN5uXSy2myIrujqNjsGpeCjCOlMgWJZ0E7JfthfuktPmY-Pk7lON2Y5AyCr-iCtOuitr5O1RT-N7rXhDFbfv",
+  "original": {
+   "name": "weapon_ssg08"
+  }
+ },
+ {
+  "id": "skin-158373106a93",
+  "name": "SSG 08 | Sans Comic",
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A grayscale pattern featuring high gloss silver paint has been applied.\\n\\n<i>\\\"The red light means it's recording\\\"</i>",
+  "weapon": {
+   "id": "weapon_ssg08",
+   "weapon_id": 40,
+   "name": "SSG 08"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifles"
+  },
+  "pattern": {
+   "id": "hye_comic_shapes",
+   "name": "Sans Comic"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "rarity": {
+   "id": "rarity_common_weapon",
+   "name": "Consumer Grade",
+   "color": "#b0c3d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1372",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-achroma",
+    "name": "The Achroma Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_hye_comic_shapes_light_png.png",
   "original": {
    "name": "weapon_ssg08"
   }
@@ -137310,6 +139655,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1T9s2qYaNkI_GeMWGf0-tlpN5lRi67gVNzsDuHyNyueHmQZgUoC5AkQuEKtkHum4fjN-jjtlfXio8UzHis2igb8G81tBqfncax",
+  "original": {
+   "name": "weapon_taser"
+  }
+ },
+ {
+  "id": "skin-0843472a9098",
+  "name": "Zeus x27 | Earth Mandala",
+  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "weapon": {
+   "id": "weapon_taser",
+   "weapon_id": 31,
+   "name": "Zeus x27"
+  },
+  "category": {
+   "id": "loadoutslot_equipment",
+   "name": "Equipment"
+  },
+  "pattern": {
+   "id": "hye_earth_mandala_lc",
+   "name": "Earth Mandala"
+  },
+  "min_float": 0,
+  "max_float": 0.66,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1382",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_hye_earth_mandala_lc_light_png.png",
   "original": {
    "name": "weapon_taser"
   }
@@ -140220,6 +142632,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0OSveq1uIf2cMWuZxuZi_rBrTXm1w0kksGjRw9yseS3Db1JzW8NyTLICtRiwxNbjMri25AzWg99bjXKp9aEM-ik",
+  "original": {
+   "name": "weapon_tec9"
+  }
+ },
+ {
+  "id": "skin-25af68e7c19c",
+  "name": "Tec-9 | Banana Leaf",
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+  "weapon": {
+   "id": "weapon_tec9",
+   "weapon_id": 30,
+   "name": "Tec-9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "hye_batik_eyes_tec9",
+   "name": "Banana Leaf"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1384",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_hye_batik_eyes_tec9_light_png.png",
   "original": {
    "name": "weapon_tec9"
   }
@@ -143541,6 +146020,73 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s24abZkI_GeAViCxOpJvOhuRz39zBwi6zvUm4ypdXrDOAUkDMF2ELJf5BG4k9DuMenh4VOMgo1DzCT4jDQJsHiJeUvUrw",
+  "original": {
+   "name": "weapon_ump45"
+  }
+ },
+ {
+  "id": "skin-37ac474a54e4",
+  "name": "UMP-45 | Warm Blooded",
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "SMGs"
+  },
+  "pattern": {
+   "id": "hye_test_animal_print_45",
+   "name": "Warm Blooded"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-Spec Grade",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1387",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_hye_test_animal_print_45_light_png.png",
   "original": {
    "name": "weapon_ump45"
   }
@@ -147171,6 +149717,73 @@
   }
  },
  {
+  "id": "skin-a060f0657eb4",
+  "name": "USP-S | Sleeping Potion",
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistols"
+  },
+  "pattern": {
+   "id": "soe_purple",
+   "name": "Sleeping Potion"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Restricted",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1377",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_soe_purple_light_png.png",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
   "id": "skin-ea3238e578e7",
   "name": "USP-S | Tropical Breeze",
   "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A tropical green floral pattern has been applied. It has been finished with gold accents.\\n\\n<i>Keep this between us</i>",
@@ -150674,6 +153287,73 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_P2tYJtgL-WdGmaZz_1JvOhkRj22kSIzujCApYPwJiPTcAAhDMN2TecI4Rbsld3jN7zr5ATc2o1CnCitj3tKu3to4e8FBaom-KXJz1aWwa05Mw8",
+  "original": {
+   "name": "weapon_xm1014"
+  }
+ },
+ {
+  "id": "skin-674317d93e09",
+  "name": "XM1014 | XoooM",
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+  "weapon": {
+   "id": "weapon_xm1014",
+   "weapon_id": 25,
+   "name": "XM1014"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Heavy"
+  },
+  "pattern": {
+   "id": "soe_yellow_xm",
+   "name": "XoooM"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "rarity": {
+   "id": "rarity_uncommon_weapon",
+   "name": "Industrial Grade",
+   "color": "#5e98d9"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1381",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Factory New"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Minimal Wear"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Field-Tested"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Well-Worn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Battle-Scarred"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-timed-drops-exuberant",
+    "name": "The Harlequin Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Both Teams"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_soe_yellow_xm_light_png.png",
   "original": {
    "name": "weapon_xm1014"
   }
