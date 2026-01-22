@@ -8401,8 +8401,8 @@
  },
  {
   "id": "skin-9197715f9f3f",
-  "name": "AK-47 | 灯神",
-  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
+  "name": "AK-47 | 爱神",
+  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 枪身与枪管采用了金属漆涂装，护木及枪托则以珍珠母贝质感呈现。\\n\\n<i>源于异次元之境</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -8414,7 +8414,7 @@
   },
   "pattern": {
    "id": "gsch_ak_djiin",
-   "name": "灯神"
+   "name": "爱神"
   },
   "min_float": 0,
   "max_float": 1,
@@ -32356,7 +32356,7 @@
  },
  {
   "id": "skin-4fa9c490db80",
-  "name": "法玛斯 | 灯神",
+  "name": "法玛斯 | 爱神",
   "description": "给手头紧的玩家的一个廉价选择，法玛斯有效地填补了昂贵的步枪和杀伤力较低的微型冲锋枪之间的空缺。 这把武器上镶嵌了黄金和镍币，并且刻有灯神的图像。\\n\\n<i>许愿需谨慎</i>",
   "weapon": {
    "id": "weapon_famas",
@@ -32369,7 +32369,7 @@
   },
   "pattern": {
    "id": "aq_famas_jinn",
-   "name": "灯神"
+   "name": "爱神"
   },
   "min_float": 0,
   "max_float": 1,
@@ -34130,7 +34130,7 @@
  },
  {
   "id": "skin-7f85393d2fb1",
-  "name": "法玛斯 | 世仇",
+  "name": "法玛斯 | 复仇",
   "description": "给手头紧的玩家的一个廉价选择，法玛斯有效地填补了昂贵的步枪和杀伤力较低的微型冲锋枪之间的空缺。 它采用了高光漆料绘制的木纹涂装。\\n\\n<i>给你把斧子，好好磨吧…… ——军火商布兹</i>",
   "weapon": {
    "id": "weapon_famas",
@@ -34143,7 +34143,7 @@
   },
   "pattern": {
    "id": "soe_bw_blast",
-   "name": "世仇"
+   "name": "复仇"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -105211,7 +105211,7 @@
  },
  {
   "id": "skin-105633b3f165",
-  "name": "MP5-SD | 野餐区",
+  "name": "MP5-SD | 野餐",
   "description": "一直被模仿，但从未被超越。经典的 MP5 也许是世界上用法最通用、最受欢迎的微型冲锋枪。此 SD 变种最大特点在于已配有消音器，本已令人胆寒的武器如今杀人于无声之间。 采用了错位 X 形红色纹理涂装。\\n\\n<i>有点浮夸，但这不正是重点吗？——实习军火商伊莫金</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -105224,7 +105224,7 @@
   },
   "pattern": {
    "id": "soe_red",
-   "name": "野餐区"
+   "name": "野餐"
   },
   "min_float": 0,
   "max_float": 0.75,
@@ -111575,7 +111575,7 @@
  {
   "id": "skin-07db077aad75",
   "name": "MP9 | 创世蜂鸣",
-  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 MP9 主体为银色，凹槽处填充了黄红双色涂装。\\n\\n<i>别拦着我！</i>",
+  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 MP9 主体为黑银色，凹槽处填充了黄红双色涂装。\\n\\n<i>别拦着我！</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
