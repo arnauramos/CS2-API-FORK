@@ -8401,8 +8401,8 @@
  },
  {
   "id": "skin-9197715f9f3f",
-  "name": "AK-47 | Aphrodite",
-  "description": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями. The receiver and barrel have been painted with metallic paint. The hand guard and butt stock have been painted to resemble Mother of Pearl.\\n\\n<i>From a different plane</i>",
+  "name": "AK-47 | Афродита",
+  "description": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями. Короб и ствол окрашены металлической краской. Цевьё и приклад окрашены под перламутр.\\n\\n<i>Из мира богов</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -8414,7 +8414,7 @@
   },
   "pattern": {
    "id": "gsch_ak_djiin",
-   "name": "Aphrodite"
+   "name": "Афродита"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9101,8 +9101,8 @@
  },
  {
   "id": "skin-a92d1a70ebc1",
-  "name": "AK-47 | Breakthrough",
-  "description": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями. A grayscale pattern featuring aggressive \\\"zed\\\" designs has been applied over a carbon fiber base.\\n\\n<i>+5 Weapon Handling Speed</i>",
+  "name": "AK-47 | Прорыв",
+  "description": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями. На углеволоконную основу нанесён узор в оттенках серого с агрессивными зигзагами.\\n\\n<i>+5 к оружейной сноровке</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -9114,7 +9114,7 @@
   },
   "pattern": {
    "id": "hye_zeds",
-   "name": "Breakthrough"
+   "name": "Прорыв"
   },
   "min_float": 0,
   "max_float": 0.75,
@@ -9151,7 +9151,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -12603,8 +12603,8 @@
  },
  {
   "id": "skin-784a6c99447c",
-  "name": "AUG | Creep",
-  "description": "Мощная и точная винтовка с оптическим прицелом AUG компенсирует свою долгую перезарядку низким разбросом пуль и высокой скорострельностью. It has been painted with gnarled branches and birds over a silver base.\\n\\n<i>\\\"They're circling...\\\"</i>",
+  "name": "AUG | Жуть",
+  "description": "Мощная и точная винтовка с оптическим прицелом AUG компенсирует свою долгую перезарядку низким разбросом пуль и высокой скорострельностью. На серебряной основе изображены птицы и корявые ветки.\\n\\n<i>«Они нарезают круги...»</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -12616,7 +12616,7 @@
   },
   "pattern": {
    "id": "soe_aug_creep",
-   "name": "Creep"
+   "name": "Жуть"
   },
   "min_float": 0,
   "max_float": 0.8,
@@ -12653,7 +12653,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -16436,8 +16436,8 @@
  },
  {
   "id": "skin-d384f428d432",
-  "name": "AWP | Exothermic",
-  "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». A red-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "name": "AWP | Экзотермия",
+  "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». На оружие нанесён взрывной узор красного цвета.\\n\\n<i>«Крутые ребята не смотрят на взрывы»</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -16449,7 +16449,7 @@
   },
   "pattern": {
    "id": "hye_firework_patches",
-   "name": "Exothermic"
+   "name": "Экзотермия"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -16486,7 +16486,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -16503,8 +16503,8 @@
  },
  {
   "id": "skin-76f19247a21d",
-  "name": "AWP | The End",
-  "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». It has been custom painted using eggplant and white colors with flames, roses, and \\\"the end\\\" in front of the trigger.\\n\\n<i>A tale of two sides</i>",
+  "name": "AWP | Конец",
+  "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». На оружии изображены баклажаново-белые языки пламени, розы и надпись «Конец» перед спусковым крючком.\\n\\n<i>Повесть о двух сторонах</i>",
   "weapon": {
    "id": "weapon_awp",
    "weapon_id": 9,
@@ -16516,7 +16516,7 @@
   },
   "pattern": {
    "id": "soe_bw_the_end_awp",
-   "name": "The End"
+   "name": "Конец"
   },
   "min_float": 0,
   "max_float": 1,
@@ -16553,7 +16553,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -21667,8 +21667,8 @@
  },
  {
   "id": "skin-66a37bb94450",
-  "name": "ПП-19 «Бизон» | Bizoom",
-  "description": "У пистолета-пулемёта «Бизон» низкий урон, который компенсируется уникальным вместительным шнековым магазином с быстрой перезарядкой. A grayscale pattern has been applied.\\n\\n<i>Quickly, please!</i>",
+  "name": "ПП-19 «Бизон» | Бизоногон",
+  "description": "У пистолета-пулемёта «Бизон» низкий урон, который компенсируется уникальным вместительным шнековым магазином с быстрой перезарядкой. На оружие нанесён узор в оттенках серого.\\n\\n<i>Побыстрее, пожалуйста!</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21680,7 +21680,7 @@
   },
   "pattern": {
    "id": "hye_car_wrap_bizon",
-   "name": "Bizoom"
+   "name": "Бизоногон"
   },
   "min_float": 0,
   "max_float": 0.58,
@@ -21717,7 +21717,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -21734,8 +21734,8 @@
  },
  {
   "id": "skin-8ac8f9231892",
-  "name": "ПП-19 «Бизон» | Thermal Currents",
-  "description": "У пистолета-пулемёта «Бизон» низкий урон, который компенсируется уникальным вместительным шнековым магазином с быстрой перезарядкой. Silver birds have been applied over a wine-colored pattern.\\n\\n<i>How's the view up there?</i>",
+  "name": "ПП-19 «Бизон» | Тепловые потоки",
+  "description": "У пистолета-пулемёта «Бизон» низкий урон, который компенсируется уникальным вместительным шнековым магазином с быстрой перезарядкой. На основу винного цвета нанесён серебряный рисунок птиц.\\n\\n<i>Как вам вид свысока?</i>",
   "weapon": {
    "id": "weapon_bizon",
    "weapon_id": 26,
@@ -21747,7 +21747,7 @@
   },
   "pattern": {
    "id": "hye_geobirds_sunrise",
-   "name": "Thermal Currents"
+   "name": "Тепловые потоки"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -21784,7 +21784,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -24686,8 +24686,8 @@
  },
  {
   "id": "skin-56333a38bf41",
-  "name": "CZ75-Auto | Honey Paisley",
-  "description": "Будучи автоматическим вариантом CZ75, CZ75-Auto — идеальный вариант для тех, кто собирается использовать оружие павших противников. Но из-за небольшого запаса патронов при стрельбе вам придется быть куда аккуратнее. It has been painted with a gold-colored paisley pattern over a wine-colored base.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "name": "CZ75-Auto | Медовый пейсли",
+  "description": "Будучи автоматическим вариантом CZ75, CZ75-Auto — идеальный вариант для тех, кто собирается использовать оружие павших противников. Но из-за небольшого запаса патронов при стрельбе вам придется быть куда аккуратнее. На основу винного цвета нанесён золотой узор пейсли.\\n\\n<i>«Для тебя, Бут, только самые изысканные ткани», — Юкако, оружейница</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -24699,7 +24699,7 @@
   },
   "pattern": {
    "id": "hye_paisley_desat",
-   "name": "Honey Paisley"
+   "name": "Медовый пейсли"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -24736,7 +24736,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -28215,8 +28215,8 @@
  },
  {
   "id": "skin-442d3266f2ac",
-  "name": "Desert Eagle | The Daily Deagle",
-  "description": "Дорогой и крайне мощный Desert Eagle — знаковый пистолет, который непросто освоить, хоть он и удивительно точен на дальних дистанциях. A grayscale pattern has been applied.\\n\\n<i>From the pages of your favorite graphic novel</i>",
+  "name": "Desert Eagle | «Дейли Дигл»",
+  "description": "Дорогой и крайне мощный Desert Eagle — знаковый пистолет, который непросто освоить, хоть он и удивительно точен на дальних дистанциях. На оружие нанесён узор в оттенках серого.\\n\\n<i>Со страниц вашего любимого графического романа</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -28228,7 +28228,7 @@
   },
   "pattern": {
    "id": "hye_car_wrap",
-   "name": "The Daily Deagle"
+   "name": "«Дейли Дигл»"
   },
   "min_float": 0,
   "max_float": 0.58,
@@ -28265,7 +28265,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -31276,8 +31276,8 @@
  },
  {
   "id": "skin-6e77ad6f522c",
-  "name": "Dual Berettas | Silver Pour",
-  "description": "Одновременная стрельба из двух пистолетов Beretta с большим магазином уменьшает точность и увеличивает время перезарядки. С другой стороны, вы можете стрелять сразу двумя Beretta. A grayscale acrylic pour pattern has been applied.\\n\\n<i>In the end it all seems to come together</i>",
+  "name": "Dual Berettas | Серебряный налив",
+  "description": "Одновременная стрельба из двух пистолетов Beretta с большим магазином уменьшает точность и увеличивает время перезарядки. С другой стороны, вы можете стрелять сразу двумя Beretta. На оружие нанесён акриловый узор в оттенках серого под окраску наливом.\\n\\n<i>Кажется, в конце концов всё сливается...</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -31289,7 +31289,7 @@
   },
   "pattern": {
    "id": "soe_acrylic_flow3",
-   "name": "Silver Pour"
+   "name": "Серебряный налив"
   },
   "min_float": 0,
   "max_float": 0.678431,
@@ -31326,7 +31326,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -33918,8 +33918,8 @@
  },
  {
   "id": "skin-f9f850e1e389",
-  "name": "FAMAS | Byproduct",
-  "description": "Дешёвый выбор для не очень богатых игроков, FAMAS отлично заполняет нишу между более дорогими автоматами и менее эффективными пистолетами-пулемётами. A gold-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+  "name": "FAMAS | Побочный продукт",
+  "description": "Дешёвый выбор для не очень богатых игроков, FAMAS отлично заполняет нишу между более дорогими автоматами и менее эффективными пистолетами-пулемётами. На оружие нанесён взрывной узор золотистого цвета.\\n\\n<i>«Крутые ребята не смотрят на взрывы»</i>",
   "weapon": {
    "id": "weapon_famas",
    "weapon_id": 10,
@@ -33931,7 +33931,7 @@
   },
   "pattern": {
    "id": "hye_firework_patches_famas",
-   "name": "Byproduct"
+   "name": "Побочный продукт"
   },
   "min_float": 0,
   "max_float": 0.55,
@@ -33968,7 +33968,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -34130,8 +34130,8 @@
  },
  {
   "id": "skin-7f85393d2fb1",
-  "name": "FAMAS | Vendetta",
-  "description": "Дешёвый выбор для не очень богатых игроков, FAMAS отлично заполняет нишу между более дорогими автоматами и менее эффективными пистолетами-пулемётами. It has been painted with a woodgrain pattern using high gloss paint.\\n\\n<i>Here—an axe for you to grind... - Booth, Arms Dealer</i>",
+  "name": "FAMAS | Вендетта",
+  "description": "Дешёвый выбор для не очень богатых игроков, FAMAS отлично заполняет нишу между более дорогими автоматами и менее эффективными пистолетами-пулемётами. Глянцевой краской на оружие нанесён древесный узор.\\n\\n<i>«Вот, держи. Чтобы было чем точить зуб...» — Бут, торговец оружием</i>",
   "weapon": {
    "id": "weapon_famas",
    "weapon_id": 10,
@@ -34143,7 +34143,7 @@
   },
   "pattern": {
    "id": "soe_bw_blast",
-   "name": "Vendetta"
+   "name": "Вендетта"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -34180,7 +34180,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -37589,8 +37589,8 @@
  },
  {
   "id": "skin-6f23920b8406",
-  "name": "Five-SeveN | Fraise Crane",
-  "description": "Five-Seven стоит дорого и медленно перезаряжается, однако эти недостатки компенсируются высокой точностью, бронебойностью, щедрым магазином на 20 патронов и снисходительной отдачей. A pink and white pattern of cranes and flowers has been applied.\\n\\n<i>Best paired with a glass of sherry</i>",
+  "name": "Five-SeveN | Клубничный журавль",
+  "description": "Five-Seven стоит дорого и медленно перезаряжается, однако эти недостатки компенсируются высокой точностью, бронебойностью, щедрым магазином на 20 патронов и снисходительной отдачей. На оружие нанесён бело-розовый узор с изображением журавлей и цветов.\\n\\n<i>Лучше журавль в руке, чем пуля в голове</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37602,7 +37602,7 @@
   },
   "pattern": {
    "id": "soe_pink_cranes",
-   "name": "Fraise Crane"
+   "name": "Клубничный журавль"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -37639,7 +37639,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -42463,8 +42463,8 @@
  },
  {
   "id": "skin-49296f9e5232",
-  "name": "Автомат «Галиль» | Sky Mandala",
-  "description": "Автомат «Галиль» — относительно дешевая штурмовая винтовка у террористов, которая считается хорошим оружием на средних и дальних дистанциях. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "name": "Автомат «Галиль» | Небесная мандала",
+  "description": "Автомат «Галиль» — относительно дешевая штурмовая винтовка у террористов, которая считается хорошим оружием на средних и дальних дистанциях. На оружие нанесён разноцветный узор мандалы.\\n\\n<i>Путь — это главное</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -42476,7 +42476,7 @@
   },
   "pattern": {
    "id": "hye_earth_mandala",
-   "name": "Sky Mandala"
+   "name": "Небесная мандала"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -42513,7 +42513,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -46734,8 +46734,8 @@
  },
  {
   "id": "skin-9eb900056828",
-  "name": "Glock-18 | Trace Lock",
-  "description": "Пистолет Glock-18 подходит для первого раунда. Он наиболее эффективен против противников без бронежилета и может вести огонь очередями из трёх выстрелов. A grayscale pattern of circles has been applied underneath a holographic design.\\n\\n<i>Graphical maps of holographic systems</i>",
+  "name": "Glock-18 | След зафиксирован",
+  "description": "Пистолет Glock-18 подходит для первого раунда. Он наиболее эффективен против противников без бронежилета и может вести огонь очередями из трёх выстрелов. Поверх кругового узора в оттенках серого на оружие нанесён голографический рисунок.\\n\\n<i>Графические карты голографических систем</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -46747,7 +46747,7 @@
   },
   "pattern": {
    "id": "ht_white_edges",
-   "name": "Trace Lock"
+   "name": "След зафиксирован"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -46784,7 +46784,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -50315,8 +50315,8 @@
  },
  {
   "id": "skin-a5639c9731c1",
-  "name": "P2000 | Grip Tape",
-  "description": "Точный и податливый пистолет P2000, произведенный в Германии, — хорошее оружие для первого раунда, которое особенно эффективно против небронированных противников. A pattern using different sheens of silver paint has been applied. Parts of the grip have been painted using a dark, matte paint to resemble grip tape.\\n\\n<i>Hold tight!</i>",
+  "name": "P2000 | Хваткая лента",
+  "description": "Точный и податливый пистолет P2000, произведенный в Германии, — хорошее оружие для первого раунда, которое особенно эффективно против небронированных противников. На оружие нанесён узор в различных оттенках серебра. Рукоять частично окрашена тёмной матовой краской, напоминающей противоскользящую ленту.\\n\\n<i>Держись крепче!</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -50328,7 +50328,7 @@
   },
   "pattern": {
    "id": "soe_p2000_grips",
-   "name": "Grip Tape"
+   "name": "Хваткая лента"
   },
   "min_float": 0,
   "max_float": 0.75,
@@ -50365,7 +50365,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -88248,8 +88248,8 @@
  },
  {
   "id": "skin-81cd69f7a061",
-  "name": "M249 | Sleet",
-  "description": "Пулемет M249 хорош на открытых пространствах и идеально подходит игрокам, готовым мириться с медленным темпом стрельбы ради вместительного магазина и повышенной точности. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "name": "M249 | Ледяная корка",
+  "description": "Пулемет M249 хорош на открытых пространствах и идеально подходит игрокам, готовым мириться с медленным темпом стрельбы ради вместительного магазина и повышенной точности. На оружие нанесён рваный узор в оттенках серого.\\n\\n<i>Богатое убранство, приспособленное под суровое окружение</i>",
   "weapon": {
    "id": "weapon_m249",
    "weapon_id": 14,
@@ -88261,7 +88261,7 @@
   },
   "pattern": {
    "id": "hye_m249_car_wrap_3",
-   "name": "Sleet"
+   "name": "Ледяная корка"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -88298,7 +88298,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -91914,8 +91914,8 @@
  },
  {
   "id": "skin-9449a702cb3c",
-  "name": "M4A4 | Aeolian Dark",
-  "description": "M4A4 — более точный, но слабый аналог АК-47 — полностью автоматическая штурмовая винтовка, которая находится исключительно на вооружении у спецназа. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "name": "M4A4 | Эолова тьма",
+  "description": "M4A4 — более точный, но слабый аналог АК-47 — полностью автоматическая штурмовая винтовка, которая находится исключительно на вооружении у спецназа. На оружие нанесён абстрактный узловатый узор в оттенках серого.\\n\\n<i>Пусть тебя несёт ветер</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -91927,7 +91927,7 @@
   },
   "pattern": {
    "id": "hye_abstract_knot_m4",
-   "name": "Aeolian Dark"
+   "name": "Эолова тьма"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -91964,7 +91964,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -95226,8 +95226,8 @@
  },
  {
   "id": "skin-bc5a36f177b0",
-  "name": "M4A1-S | Party Animal",
-  "description": "Бесшумный карабин M4A1 оснащен менее вместительным магазином, чем его аналог без глушителя, зато он обеспечивает более тихую стрельбу с меньшей отдачей и повышенной точностью. A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+  "name": "M4A1-S | Дикий тусовщик",
+  "description": "Бесшумный карабин M4A1 оснащен менее вместительным магазином, чем его аналог без глушителя, зато он обеспечивает более тихую стрельбу с меньшей отдачей и повышенной точностью. На оружие нанесён яркий неоновый узор под звериную шкуру.\\n\\n<i>Ты же хотел пару оттенков, а не весь цветовой спектр?</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -95239,7 +95239,7 @@
   },
   "pattern": {
    "id": "hye_animal_print_90s",
-   "name": "Party Animal"
+   "name": "Дикий тусовщик"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -95276,7 +95276,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -99328,8 +99328,8 @@
  },
  {
   "id": "skin-d269db65b6ea",
-  "name": "MAC-10 | Snow Splash",
-  "description": "Пистолет-пулемёт MAC-10 похож на коробку, из которой летят пули. Он может похвастаться высокой скорострельностью, но расплатиться за это придется низкой точностью и сильной отдачей. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "name": "MAC-10 | Снежные брызги",
+  "description": "Пистолет-пулемёт MAC-10 похож на коробку, из которой летят пули. Он может похвастаться высокой скорострельностью, но расплатиться за это придется низкой точностью и сильной отдачей. На оружие нанесён угловатый рваный узор в оттенках серого.\\n\\n<i>Непоколебимый</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -99341,7 +99341,7 @@
   },
   "pattern": {
    "id": "hye_car_wrap4",
-   "name": "Snow Splash"
+   "name": "Снежные брызги"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -99378,7 +99378,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -104931,8 +104931,8 @@
  },
  {
   "id": "skin-2787809612be",
-  "name": "MP5-SD | Snow Splash",
-  "description": "Единственный и неповторимый MP5 — пожалуй, самый универсальный и популярный пистолет-пулемёт в мире. Модификация SD оснащена интегрированным глушителем, который делает бесшумным и без того грозное оружие. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "name": "MP5-SD | Снежные брызги",
+  "description": "Единственный и неповторимый MP5 — пожалуй, самый универсальный и популярный пистолет-пулемёт в мире. Модификация SD оснащена интегрированным глушителем, который делает бесшумным и без того грозное оружие. На оружие нанесён угловатый рваный узор в оттенках серого.\\n\\n<i>Непоколебимый</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -104944,7 +104944,7 @@
   },
   "pattern": {
    "id": "hye_mp5_car_wrap4",
-   "name": "Snow Splash"
+   "name": "Снежные брызги"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -104981,7 +104981,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -105212,7 +105212,7 @@
  {
   "id": "skin-105633b3f165",
   "name": "MP5-SD | Пикник",
-  "description": "Единственный и неповторимый MP5 — пожалуй, самый универсальный и популярный пистолет-пулемёт в мире. Модификация SD оснащена интегрированным глушителем, который делает бесшумным и без того грозное оружие. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+  "description": "Единственный и неповторимый MP5 — пожалуй, самый универсальный и популярный пистолет-пулемёт в мире. Модификация SD оснащена интегрированным глушителем, который делает бесшумным и без того грозное оружие. На оружие нанесён узор из смещённых красных крестов.\\n\\n<i>«Это немного перебор, но разве не в этом весь смысл?» — Имоген, начинающая торговка оружием</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -105261,7 +105261,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -107444,8 +107444,8 @@
  },
  {
   "id": "skin-33edc6632c92",
-  "name": "MP7 | Coral Paisley",
-  "description": "Универсальный, но дорогой пистолет-пулемёт немецкого производства MP7 — идеальный выбор для перестрелки на ближних дистанциях. A red and orange paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+  "name": "MP7 | Коралловый пейсли",
+  "description": "Универсальный, но дорогой пистолет-пулемёт немецкого производства MP7 — идеальный выбор для перестрелки на ближних дистанциях. На оружие нанесён красно-оранжевый узор пейсли.\\n\\n<i>«Для тебя, Бут, только самые изысканные ткани», — Юкако, оружейница</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -107457,7 +107457,7 @@
   },
   "pattern": {
    "id": "hye_paisley_warm",
-   "name": "Coral Paisley"
+   "name": "Коралловый пейсли"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -107494,7 +107494,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -111507,8 +111507,8 @@
  },
  {
   "id": "skin-fd612b65c748",
-  "name": "MP9 | Dizzy",
-  "description": "Производимый в Швейцарии передовой пистолет-пулемёт МР9 — это эргономичное полимерное оружие, используемое частными охранными фирмами. A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+  "name": "MP9 | Голова кругом",
+  "description": "Производимый в Швейцарии передовой пистолет-пулемёт МР9 — это эргономичное полимерное оружие, используемое частными охранными фирмами. На оружие нанесён пиксельный камуфляж в оттенках серого.\\n\\n<i>Прокатись на нашей карусели</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -111520,7 +111520,7 @@
   },
   "pattern": {
    "id": "soe_ddpat_swirl_bw",
-   "name": "Dizzy"
+   "name": "Голова кругом"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -111557,7 +111557,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -111574,8 +111574,8 @@
  },
  {
   "id": "skin-07db077aad75",
-  "name": "MP9 | Bee-Tron",
-  "description": "Производимый в Швейцарии передовой пистолет-пулемёт МР9 — это эргономичное полимерное оружие, используемое частными охранными фирмами. Primarily silver, the grooves of this MP9 have been filled with yellow and red paint.\\n\\n<i>Hold me back!</i>",
+  "name": "MP9 | Пчелотрон",
+  "description": "Производимый в Швейцарии передовой пистолет-пулемёт МР9 — это эргономичное полимерное оружие, используемое частными охранными фирмами. Серебряное покрытие сопровождают жёлтые и красные канавки.\\n\\n<i>Держите меня!</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -111587,7 +111587,7 @@
   },
   "pattern": {
    "id": "soe_yellow_bits",
-   "name": "Bee-Tron"
+   "name": "Пчелотрон"
   },
   "min_float": 0,
   "max_float": 0.9,
@@ -111624,7 +111624,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -116214,8 +116214,8 @@
  },
  {
   "id": "skin-18a19585ed8f",
-  "name": "Nova | Currents",
-  "description": "Дробовик Nova из-за низкой цены идеально подходит для небогатых игроков, которые стремятся напасть на врага из засады. A grayscale pattern highlighted by silver birds has been applied.\\n\\n<i>How's the view up there?</i>",
+  "name": "Nova | Течения",
+  "description": "Дробовик Nova из-за низкой цены идеально подходит для небогатых игроков, которые стремятся напасть на врага из засады. На оружие нанесён узор в оттенках серого, украшенный серебряными птицами.\\n\\n<i>Как вам вид свысока?</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -116227,7 +116227,7 @@
   },
   "pattern": {
    "id": "hye_geobirds",
-   "name": "Currents"
+   "name": "Течения"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -116264,7 +116264,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -120690,8 +120690,8 @@
  },
  {
   "id": "skin-1f71b62e4990",
-  "name": "P250 | Sleet",
-  "description": "Пистолет P250 — огнестрельное оружие с высоким темпом стрельбы и низкой отдачей, представляющее собой относительно недорогой выбор против бронированных противников. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+  "name": "P250 | Ледяная корка",
+  "description": "Пистолет P250 — огнестрельное оружие с высоким темпом стрельбы и низкой отдачей, представляющее собой относительно недорогой выбор против бронированных противников. На оружие нанесён рваный узор в оттенках серого.\\n\\n<i>Богатое убранство, приспособленное под суровое окружение</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -120703,7 +120703,7 @@
   },
   "pattern": {
    "id": "hye_car_wrap_3",
-   "name": "Sleet"
+   "name": "Ледяная корка"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -120740,7 +120740,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -124592,8 +124592,8 @@
  },
  {
   "id": "skin-59aaabe308c8",
-  "name": "P90 | Aeolian Light",
-  "description": "P90 легко узнать по уникальному дизайну под названием «булл-пап». Это оружие великолепно подходит для стрельбы на ходу благодаря высокой ёмкости магазина и низкой отдаче. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "name": "P90 | Эолов свет",
+  "description": "P90 легко узнать по уникальному дизайну под названием «булл-пап». Это оружие великолепно подходит для стрельбы на ходу благодаря высокой ёмкости магазина и низкой отдаче. На оружие нанесён абстрактный узловатый узор в оттенках серого.\\n\\n<i>Пусть тебя несёт ветер</i>",
   "weapon": {
    "id": "weapon_p90",
    "weapon_id": 19,
@@ -124605,7 +124605,7 @@
   },
   "pattern": {
    "id": "hye_abstract_knot",
-   "name": "Aeolian Light"
+   "name": "Эолов свет"
   },
   "min_float": 0,
   "max_float": 0.65,
@@ -124642,7 +124642,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -127719,8 +127719,8 @@
  },
  {
   "id": "skin-2f4f4e0aaa4e",
-  "name": "Револьвер R8 | Mauve Aside",
-  "description": "Револьвер R8 стреляет крайне точно и мощно, но его спусковой крючок печально известен своей тугостью. Если противник уже близко, не стесняйтесь бить по курку. The grip has been painted with a plum-colored acrylic pour pattern.\\n\\n<i>A gentle pour</i>",
+  "name": "Револьвер R8 | Лей не жалей",
+  "description": "Револьвер R8 стреляет крайне точно и мощно, но его спусковой крючок печально известен своей тугостью. Если противник уже близко, не стесняйтесь бить по курку. На рукоять нанесён акриловый узор сливового цвета под окраску наливом.\\n\\n<i>А ты налей и отойди</i>",
   "weapon": {
    "id": "weapon_revolver",
    "weapon_id": 64,
@@ -127732,7 +127732,7 @@
   },
   "pattern": {
    "id": "soch_copper_accent_revolver",
-   "name": "Mauve Aside"
+   "name": "Лей не жалей"
   },
   "min_float": 0,
   "max_float": 0.80339,
@@ -127769,7 +127769,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -127853,8 +127853,8 @@
  },
  {
   "id": "skin-f41134aec544",
-  "name": "Револьвер R8 | Dark Chamber",
-  "description": "Револьвер R8 стреляет крайне точно и мощно, но его спусковой крючок печально известен своей тугостью. Если противник уже близко, не стесняйтесь бить по курку. The grip has been painted with a dark acrylic pour pattern.\\n\\n<i>Old money</i>",
+  "name": "Револьвер R8 | Тёмный барабан",
+  "description": "Револьвер R8 стреляет крайне точно и мощно, но его спусковой крючок печально известен своей тугостью. Если противник уже близко, не стесняйтесь бить по курку. На рукоять нанесён тёмный акриловый узор под окраску наливом.\\n\\n<i>Богатство былых дней</i>",
   "weapon": {
    "id": "weapon_revolver",
    "weapon_id": 64,
@@ -127866,7 +127866,7 @@
   },
   "pattern": {
    "id": "soch_smoke_grips",
-   "name": "Dark Chamber"
+   "name": "Тёмный барабан"
   },
   "min_float": 0,
   "max_float": 0.80339,
@@ -127903,7 +127903,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -130216,8 +130216,8 @@
  },
  {
   "id": "skin-0b2ec5b2c5ef",
-  "name": "Обрез | Crimson Batik",
-  "description": "Классический обрез наносит большой урон на ближних дистанциях, но имеет невысокую точность, высокий разброс и медленную скорость стрельбы, поэтому вам лучше бы поскорее убивать то, во что вы попали. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+  "name": "Обрез | Багровый батик",
+  "description": "Классический обрез наносит большой урон на ближних дистанциях, но имеет невысокую точность, высокий разброс и медленную скорость стрельбы, поэтому вам лучше бы поскорее убивать то, во что вы попали. На оружие нанесён багрово-чёрный узор, напоминающий банановые листья.\\n\\n<i>Движущиеся цели</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -130229,7 +130229,7 @@
   },
   "pattern": {
    "id": "hye_batik_eyes",
-   "name": "Crimson Batik"
+   "name": "Багровый батик"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -130266,7 +130266,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -132332,8 +132332,8 @@
  },
  {
   "id": "skin-493c652caf29",
-  "name": "SCAR-20 | Zinc",
-  "description": "SCAR-20 — полуавтоматическая снайперская винтовка, которая предлагает высокую скорострельность и большой урон на расстоянии, в обмен на более медленную скорость передвижения и большую стоимость самого оружия. A grayscale pattern has been applied.\\n\\n<i>A ripple in time</i>",
+  "name": "SCAR-20 | Цинк",
+  "description": "SCAR-20 — полуавтоматическая снайперская винтовка, которая предлагает высокую скорострельность и большой урон на расстоянии, в обмен на более медленную скорость передвижения и большую стоимость самого оружия. На оружие нанесён узор в оттенках серого.\\n\\n<i>Рябь времени</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -132345,7 +132345,7 @@
   },
   "pattern": {
    "id": "hye_chrome_ripple",
-   "name": "Zinc"
+   "name": "Цинк"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -132382,7 +132382,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -135119,8 +135119,8 @@
  },
  {
   "id": "skin-9a7b0a3e260f",
-  "name": "SG 553 | Safari Print",
-  "description": "Эксклюзивный для террористов SG553 — хорошая альтернатива АК-47 с прицелом, помогающим в стрельбе на дальних дистанциях. A brown animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "name": "SG 553 | Сафари",
+  "description": "Эксклюзивный для террористов SG553 — хорошая альтернатива АК-47 с прицелом, помогающим в стрельбе на дальних дистанциях. На оружие нанесён коричневый узор под звериную шкуру.\\n\\n<i>Ты же хотел пару зверей, а не всё царство животных?</i>",
   "weapon": {
    "id": "weapon_sg556",
    "weapon_id": 39,
@@ -135132,7 +135132,7 @@
   },
   "pattern": {
    "id": "hye_animal_print_lc",
-   "name": "Safari Print"
+   "name": "Сафари"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -135169,7 +135169,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -137773,8 +137773,8 @@
  },
  {
   "id": "skin-2efacc35df16",
-  "name": "SSG 08 | Calligrafaux",
-  "description": "Снайперская винтовка SSG08 со скользящим затвором не наносит много повреждений, однако хорошее соотношение цены и качества делает ее отличным приобретением в первых раундах для перестрелок на дальних дистанциях. A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+  "name": "SSG 08 | Каллиграфальшь",
+  "description": "Снайперская винтовка SSG08 со скользящим затвором не наносит много повреждений, однако хорошее соотношение цены и качества делает ее отличным приобретением в первых раундах для перестрелок на дальних дистанциях. На оружие нанесён красный каллиграфический рисунок.\\n\\n<i>В письменном виде</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -137786,7 +137786,7 @@
   },
   "pattern": {
    "id": "ht_red_edges_fineline",
-   "name": "Calligrafaux"
+   "name": "Каллиграфальшь"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137823,7 +137823,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -138329,8 +138329,8 @@
  },
  {
   "id": "skin-158373106a93",
-  "name": "SSG 08 | Sans Comic",
-  "description": "Снайперская винтовка SSG08 со скользящим затвором не наносит много повреждений, однако хорошее соотношение цены и качества делает ее отличным приобретением в первых раундах для перестрелок на дальних дистанциях. A grayscale pattern featuring high gloss silver paint has been applied.\\n\\n<i>\\\"The red light means it's recording\\\"</i>",
+  "name": "SSG 08 | Немой комикс",
+  "description": "Снайперская винтовка SSG08 со скользящим затвором не наносит много повреждений, однако хорошее соотношение цены и качества делает ее отличным приобретением в первых раундах для перестрелок на дальних дистанциях. На оружие нанесён узор в оттенках серого, а некоторые его элементы окрашены глянцевой серебряной краской.\\n\\n<i>«Горит красная лампочка — значит, запись идёт»</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -138342,7 +138342,7 @@
   },
   "pattern": {
    "id": "hye_comic_shapes",
-   "name": "Sans Comic"
+   "name": "Немой комикс"
   },
   "min_float": 0,
   "max_float": 0.5,
@@ -138379,7 +138379,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-achroma",
-    "name": "The Achroma Collection",
+    "name": "Коллекция «Ахроматика»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
    }
   ],
@@ -139661,8 +139661,8 @@
  },
  {
   "id": "skin-0843472a9098",
-  "name": "Zeus x27 | Earth Mandala",
-  "description": "Перезаряжаемый Zeus x27 идеален для засад и стычек в закрытом пространстве, ведь способен нейтрализовать врага всего с одного выстрела. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+  "name": "Zeus x27 | Земная мандала",
+  "description": "Перезаряжаемый Zeus x27 идеален для засад и стычек в закрытом пространстве, ведь способен нейтрализовать врага всего с одного выстрела. На оружие нанесён разноцветный узор мандалы.\\n\\n<i>Путь — это главное</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -139674,7 +139674,7 @@
   },
   "pattern": {
    "id": "hye_earth_mandala_lc",
-   "name": "Earth Mandala"
+   "name": "Земная мандала"
   },
   "min_float": 0,
   "max_float": 0.66,
@@ -139711,7 +139711,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -142639,7 +142639,7 @@
  {
   "id": "skin-25af68e7c19c",
   "name": "Tec-9 | Банановые листья",
-  "description": "Tec-9 обладает вместительным магазином и идеально подходит для террориста, предпочитающего бой на небольших расстояниях. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+  "description": "Tec-9 обладает вместительным магазином и идеально подходит для террориста, предпочитающего бой на небольших расстояниях. На оружие нанесён багрово-жёлтый узор, напоминающий банановые листья.\\n\\n<i>Богат калием</i>",
   "weapon": {
    "id": "weapon_tec9",
    "weapon_id": 30,
@@ -142688,7 +142688,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -146027,7 +146027,7 @@
  {
   "id": "skin-37ac474a54e4",
   "name": "UMP-45 | Теплокровное",
-  "description": "Пистолет-пулемёт UMP45 часто не воспринимают всерьёз, хотя небольшой магазин является его единственным недостатком. В остальном же это весьма универсальное оружие для боя на ближней дистанции. A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "description": "Пистолет-пулемёт UMP45 часто не воспринимают всерьёз, хотя небольшой магазин является его единственным недостатком. В остальном же это весьма универсальное оружие для боя на ближней дистанции. На оружие нанесён красно-бежевый узор под звериную шкуру.\\n\\n<i>Ты же хотел пару зверей, а не всё царство животных?</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -146076,7 +146076,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -149718,8 +149718,8 @@
  },
  {
   "id": "skin-a060f0657eb4",
-  "name": "USP-S | Sleeping Potion",
-  "description": "Пистолет USP, любимец игроков в Counter-Strike: Source, имеет отсоединяемый глушитель, который уменьшает отдачу, одновременно поглощая привлекающий внимание шум. A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+  "name": "USP-S | Зелье сна",
+  "description": "Пистолет USP, любимец игроков в Counter-Strike: Source, имеет отсоединяемый глушитель, который уменьшает отдачу, одновременно поглощая привлекающий внимание шум. На оружие нанесён фиолетовый камуфляжный узор с перламутровой отделкой.\\n\\n<i>Новое варево!</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -149731,7 +149731,7 @@
   },
   "pattern": {
    "id": "soe_purple",
-   "name": "Sleeping Potion"
+   "name": "Зелье сна"
   },
   "min_float": 0,
   "max_float": 0.7,
@@ -149768,7 +149768,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
@@ -153293,8 +153293,8 @@
  },
  {
   "id": "skin-674317d93e09",
-  "name": "XM1014 | XoooM",
-  "description": "XM1014 — это мощный, полностью автоматический дробовик, который оправдывает свой здоровенный размер возможностью быстро нашпиговать комнату свинцом. A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+  "name": "XM1014 | Дробззь",
+  "description": "XM1014 — это мощный, полностью автоматический дробовик, который оправдывает свой здоровенный размер возможностью быстро нашпиговать комнату свинцом. Жёлтый узор дополнен серебряными акцентами.\\n\\n<i>БЗЗЗЗЗЗ!</i>",
   "weapon": {
    "id": "weapon_xm1014",
    "weapon_id": 25,
@@ -153306,7 +153306,7 @@
   },
   "pattern": {
    "id": "soe_yellow_xm",
-   "name": "XoooM"
+   "name": "Дробззь"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -153343,7 +153343,7 @@
   "collections": [
    {
     "id": "collection-set-timed-drops-exuberant",
-    "name": "The Harlequin Collection",
+    "name": "Коллекция «Арлекин»",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
    }
   ],
