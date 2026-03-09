@@ -5356,7 +5356,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -5429,7 +5429,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -5502,7 +5502,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -7267,7 +7267,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -7401,7 +7401,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -8452,7 +8452,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -8519,7 +8519,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -9085,7 +9085,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -9152,7 +9152,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -9219,7 +9219,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -9286,7 +9286,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -9353,7 +9353,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -10426,7 +10426,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -10504,7 +10504,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -10577,7 +10577,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -11155,7 +11155,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -11701,7 +11701,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -12148,7 +12148,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -12654,7 +12654,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -13564,7 +13564,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -13637,7 +13637,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -13715,7 +13715,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -14971,7 +14971,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -15044,7 +15044,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -15734,7 +15734,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -16353,7 +16353,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -16487,7 +16487,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -16554,7 +16554,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -21651,7 +21651,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -21718,7 +21718,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -21785,7 +21785,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -22539,7 +22539,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -22665,7 +22665,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -23493,7 +23493,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -24737,7 +24737,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -25096,7 +25096,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -26106,7 +26106,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -27149,7 +27149,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -27216,7 +27216,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -27289,7 +27289,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -27362,7 +27362,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -27762,7 +27762,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -28266,7 +28266,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -28400,7 +28400,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -29457,7 +29457,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -29745,7 +29745,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -29818,7 +29818,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -31193,7 +31193,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -31260,7 +31260,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -31327,7 +31327,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -31394,7 +31394,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -33003,7 +33003,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -33441,7 +33441,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -33508,7 +33508,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -33586,7 +33586,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -33969,7 +33969,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -34114,7 +34114,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -34181,7 +34181,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -34248,7 +34248,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -34807,7 +34807,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -35196,7 +35196,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -37036,7 +37036,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -37573,7 +37573,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -37640,7 +37640,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -37707,7 +37707,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -39775,7 +39775,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -39915,7 +39915,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -40584,7 +40584,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -41278,7 +41278,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -41414,7 +41414,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -42514,7 +42514,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -42581,7 +42581,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -42640,7 +42640,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -42852,7 +42852,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -42919,7 +42919,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -42986,7 +42986,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -43440,7 +43440,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -46056,7 +46056,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -46129,7 +46129,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -46202,7 +46202,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -46275,7 +46275,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -46718,7 +46718,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -46785,7 +46785,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -47163,7 +47163,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -47236,7 +47236,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -47741,7 +47741,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -47906,7 +47906,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -49771,7 +49771,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -50062,7 +50062,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -50135,7 +50135,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -50366,7 +50366,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -50433,7 +50433,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -50626,7 +50626,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -88031,7 +88031,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -88299,7 +88299,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -88366,7 +88366,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -88433,7 +88433,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -90479,7 +90479,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -91352,7 +91352,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -91965,7 +91965,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -92032,7 +92032,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -92099,7 +92099,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -92172,7 +92172,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -92245,7 +92245,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -92379,7 +92379,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -93932,7 +93932,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -94678,7 +94678,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -94823,7 +94823,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -95006,7 +95006,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -95277,7 +95277,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -95417,7 +95417,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -95490,7 +95490,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -95641,7 +95641,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -95883,7 +95883,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -96267,7 +96267,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -98653,7 +98653,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -99379,7 +99379,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -99446,7 +99446,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -99513,7 +99513,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -99653,7 +99653,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -99726,7 +99726,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -99799,7 +99799,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -99877,7 +99877,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -100322,7 +100322,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -102771,7 +102771,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -102844,7 +102844,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -102984,7 +102984,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -103460,7 +103460,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -104655,7 +104655,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -104915,7 +104915,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -104982,7 +104982,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -105049,7 +105049,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -105122,7 +105122,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -105262,7 +105262,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -105329,7 +105329,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -105388,7 +105388,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -106588,7 +106588,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -107495,7 +107495,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -107635,7 +107635,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -107708,7 +107708,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -110024,7 +110024,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -110321,7 +110321,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -110534,7 +110534,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -110601,7 +110601,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -110986,7 +110986,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -111053,7 +111053,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -111120,7 +111120,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -111193,7 +111193,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -111491,7 +111491,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -111558,7 +111558,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -111625,7 +111625,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -112823,7 +112823,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -113530,7 +113530,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -113597,7 +113597,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -115047,7 +115047,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -115613,7 +115613,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -116265,7 +116265,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -116405,7 +116405,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -116478,7 +116478,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -116809,7 +116809,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -116876,7 +116876,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -117405,7 +117405,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -118247,7 +118247,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -120741,7 +120741,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -120808,7 +120808,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -120875,7 +120875,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -120948,7 +120948,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -121021,7 +121021,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -121288,7 +121288,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -121355,7 +121355,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -121593,7 +121593,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -123393,7 +123393,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -123898,7 +123898,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -124405,7 +124405,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -124643,7 +124643,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -124710,7 +124710,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -124777,7 +124777,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -124844,7 +124844,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -124917,7 +124917,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -124990,7 +124990,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -125763,7 +125763,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -126413,7 +126413,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -127466,7 +127466,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -127770,7 +127770,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -127837,7 +127837,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -127904,7 +127904,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -129683,7 +129683,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -130267,7 +130267,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -131316,7 +131316,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -132383,7 +132383,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -132450,7 +132450,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -132523,7 +132523,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -132596,7 +132596,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -134671,7 +134671,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -135103,7 +135103,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -135170,7 +135170,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -135511,7 +135511,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -137757,7 +137757,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -137824,7 +137824,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -137891,7 +137891,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -138380,7 +138380,7 @@
    {
     "id": "collection-set-timed-drops-achroma",
     "name": "The Achroma Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_achroma.svg"
    }
   ],
   "crates": [],
@@ -138447,7 +138447,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -138514,7 +138514,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -138793,7 +138793,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -138860,7 +138860,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -139353,7 +139353,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -139499,7 +139499,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -139572,7 +139572,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -139645,7 +139645,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -139712,7 +139712,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -139779,7 +139779,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -139846,7 +139846,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -139997,7 +139997,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -142689,7 +142689,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -142756,7 +142756,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -142901,7 +142901,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -143035,7 +143035,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -143113,7 +143113,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -143180,7 +143180,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -143247,7 +143247,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -145288,7 +145288,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -146077,7 +146077,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -146329,7 +146329,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -146865,7 +146865,7 @@
    {
     "id": "collection-set-community-36",
     "name": "The Genesis Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_36.svg"
    }
   ],
   "crates": [
@@ -146938,7 +146938,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -147011,7 +147011,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -147084,7 +147084,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -149100,7 +149100,7 @@
    {
     "id": "collection-set-realism-camo",
     "name": "The Sport & Field Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_realism_camo.svg"
    }
   ],
   "crates": [],
@@ -149167,7 +149167,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -149702,7 +149702,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -149769,7 +149769,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -149836,7 +149836,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -150267,7 +150267,7 @@
    {
     "id": "collection-set-community-34",
     "name": "The Gallery Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_34.svg"
    }
   ],
   "crates": [
@@ -150340,7 +150340,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
@@ -151612,7 +151612,7 @@
    {
     "id": "collection-set-overpass-2024",
     "name": "The Overpass 2024 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024.svg"
    }
   ],
   "crates": [
@@ -152285,7 +152285,7 @@
    {
     "id": "collection-set-timed-drops-neutral",
     "name": "The Boreal Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral.svg"
    }
   ],
   "crates": [],
@@ -152352,7 +152352,7 @@
    {
     "id": "collection-set-graphic-design",
     "name": "The Graphic Design Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_graphic_design.svg"
    }
   ],
   "crates": [],
@@ -152419,7 +152419,7 @@
    {
     "id": "collection-set-timed-drops-warm",
     "name": "The Radiant Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_warm.svg"
    }
   ],
   "crates": [],
@@ -152998,7 +152998,7 @@
    {
     "id": "collection-set-timed-drops-cool",
     "name": "The Ascent Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool.svg"
    }
   ],
   "crates": [],
@@ -153277,7 +153277,7 @@
    {
     "id": "collection-set-xpshop-wpn-01",
     "name": "Limited Edition Item",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_xpshop_wpn_01.svg"
    }
   ],
   "crates": [],
@@ -153344,7 +153344,7 @@
    {
     "id": "collection-set-timed-drops-exuberant",
     "name": "The Harlequin Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_exuberant.svg"
    }
   ],
   "crates": [],
@@ -153690,7 +153690,7 @@
    {
     "id": "collection-set-train-2025",
     "name": "The Train 2025 Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025.svg"
    }
   ],
   "crates": [
@@ -153841,7 +153841,7 @@
    {
     "id": "collection-set-community-35",
     "name": "The Fever Collection",
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35.svg"
    }
   ],
   "crates": [
