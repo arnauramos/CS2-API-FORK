@@ -1768,6 +1768,494 @@
   }
  },
  {
+  "id": "skin-b8f492474850",
+  "name": "★ Водительские перчатки | Brocade Crane",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_crane_red",
+   "name": "Brocade Crane"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1399",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-d9b9add3d4ae",
+  "name": "★ Водительские перчатки | Brocade Flowers",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_brocade_flower_red",
+   "name": "Brocade Flowers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1400",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f9ff211df27d",
+  "name": "★ Водительские перчатки | Dragon Fists",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_dragon_scale_red",
+   "name": "Dragon Fists"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1401",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-2d7a4c354277",
+  "name": "★ Водительские перчатки | Garden",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_embroidered_flowers_teal",
+   "name": "Garden"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1402",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-25977544c37d",
+  "name": "★ Водительские перчатки | Hand Sweaters",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_knit_argyle_green",
+   "name": "Hand Sweaters"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1439",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-c79f644ef9e1",
+  "name": "★ Водительские перчатки | Plum Quill",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_ostrich_purple",
+   "name": "Plum Quill"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1412",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-f31ff8147493",
+  "name": "★ Водительские перчатки | Seigaiha",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_scallop_metallic_blue",
+   "name": "Seigaiha"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1404",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
+  "id": "skin-b1dcd2af898f",
+  "name": "★ Водительские перчатки | Wave Chaser",
+  "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения.",
+  "weapon": {
+   "id": "slick_gloves",
+   "weapon_id": 5031,
+   "name": "Водительские перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_driver_silk_dragon_white",
+   "name": "Wave Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1398",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light_png.png",
+  "original": {
+   "name": "slick_gloves"
+  }
+ },
+ {
   "id": "skin-e8384ee7aa31",
   "name": "★ Водительские перчатки | Лунный узор",
   "description": "Эти водительские перчатки защищают руки от повреждений, при этом сохраняя тактильные ощущения. Тёмно-синяя замша переплетается с чёрной кожей в узоре, который никогда не выйдет из моды.\\n\\n<i>Нельзя марать руки в крови... Но перчатки можно</i>",
@@ -2652,6 +3140,433 @@
   }
  },
  {
+  "id": "skin-7b77498783da",
+  "name": "★ Перчатки спецназа | Lime Polycam",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_abstract_green",
+   "name": "Lime Polycam"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1413",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-1f8f2cadf55b",
+  "name": "★ Перчатки спецназа | Cloud Chaser",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_dragon_blue",
+   "name": "Cloud Chaser"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1440",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6d087aad2621",
+  "name": "★ Перчатки спецназа | Blackbook",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_graffiti_black",
+   "name": "Blackbook"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1414",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-cc0d5dff95fc",
+  "name": "★ Перчатки спецназа | Chocolate Chesterfield",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_black",
+   "name": "Chocolate Chesterfield"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1415",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-da1393aefb9c",
+  "name": "★ Перчатки спецназа | Pillow Punchers",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_quilted_white",
+   "name": "Pillow Punchers"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1438",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-aba169232063",
+  "name": "★ Перчатки спецназа | Sunburst",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_sunburst_red",
+   "name": "Sunburst"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1416",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-6977cd7028dd",
+  "name": "★ Перчатки спецназа | Big Swell",
+  "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам.",
+  "weapon": {
+   "id": "specialist_gloves",
+   "weapon_id": 5034,
+   "name": "Перчатки спецназа"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_specialist_wave_blue",
+   "name": "Big Swell"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1437",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light_png.png",
+  "original": {
+   "name": "specialist_gloves"
+  }
+ },
+ {
   "id": "skin-fabc9079a914",
   "name": "★ Перчатки спецназа | Пиксельный камуфляж «Лес»",
   "description": "Эти надежные, дышащие и стильные перчатки дадут неблагоприятным условиям такой же жестокий бой, как вы — врагам. Кожа ручного пошива укрывает под собой прочную ткань с камуфляжным узором.\\n\\n<i>Некоторые не любят марать свои руки</i>",
@@ -3533,6 +4448,433 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJp-hnWyyhnRg_jDGMnYftb3qWagQlX8EjF7YIuhK9m9XiNO2x7gOPjY5HzHj7iiwcv3xi4-pQAPc7uvqAbB4ER4o",
   "original": {
    "name": "specialist_gloves"
+  }
+ },
+ {
+  "id": "skin-0f6327fef452",
+  "name": "★ Спортивные перчатки | Violet Beadwork",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_beadwork_diamonds_purple",
+   "name": "Violet Beadwork"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1405",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-c747da872a60",
+  "name": "★ Спортивные перчатки | Frosty",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_camo_winter",
+   "name": "Frosty"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1406",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_camo_winter_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-4a3cb425ea4e",
+  "name": "★ Спортивные перчатки | Пламя",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными. Аэрографический рисунок был нанесен прозрачной краской на основное хромовое покрытие.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_flames_orange",
+   "name": "Пламя"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1407",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_flames_orange_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-1cd6adc6787e",
+  "name": "★ Спортивные перчатки | Creme Pinstripe",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_pinstripe_black",
+   "name": "Creme Pinstripe"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1408",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-01ecc031f210",
+  "name": "★ Спортивные перчатки | Red Racer",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_racer_red",
+   "name": "Red Racer"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1409",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_racer_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-635fbb080d7c",
+  "name": "★ Спортивные перчатки | Ultra Violent",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_tech_gradient_bright",
+   "name": "Ultra Violent"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1410",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
+  }
+ },
+ {
+  "id": "skin-9ff0ea2301d4",
+  "name": "★ Спортивные перчатки | Occult",
+  "description": "Синтетическая ткань делает эти перчатки долговечными и привлекательными.",
+  "weapon": {
+   "id": "sporty_gloves",
+   "weapon_id": 5030,
+   "name": "Спортивные перчатки"
+  },
+  "category": {
+   "id": "sfui_invpanel_filter_gloves",
+   "name": "Перчатки"
+  },
+  "pattern": {
+   "id": "glove_sport_velvet_red",
+   "name": "Occult"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1417",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [],
+  "crates": [],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/sporty_gloves_glove_sport_velvet_red_light_png.png",
+  "original": {
+   "name": "sporty_gloves"
   }
  },
  {
@@ -5301,6 +6643,79 @@
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYoDOEkYrqKiLJAVRiW9EzKrtT5Uj8jNOyZb_i5QHcg40Unyz-ji5LvX1v6-kEV_Ek8vCFjguUYOU_tJVWd6y5DUPZHBGjgbE",
   "original": {
    "name": "studded_hydra_gloves"
+  }
+ },
+ {
+  "id": "skin-f64cdaac0b90",
+  "name": "AK-47 | Crane Flight",
+  "description": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями. A crane and gold accents have been hand painted over a black and white base.\\n\\n<i>Preceding the blood moon</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Винтовки"
+  },
+  "pattern": {
+   "id": "ak47_crane_flight",
+   "name": "Crane Flight"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Засекреченное",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1425",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Террористы"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_crane_flight_light_png.png",
+  "original": {
+   "name": "weapon_ak47"
   }
  },
  {
@@ -13736,6 +15151,79 @@
   }
  },
  {
+  "id": "skin-66197377b028",
+  "name": "AWP | Queen's Gambit",
+  "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Винтовки"
+  },
+  "pattern": {
+   "id": "awp_queens_gambit",
+   "name": "Queen's Gambit"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Тайное",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1422",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_queens_gambit_light_png.png",
+  "original": {
+   "name": "weapon_awp"
+  }
+ },
+ {
   "id": "skin-b986a2456e28",
   "name": "AWP | Хромовая пушка",
   "description": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп». Зеркальную краску дополняют разноцветные акценты и оптический прицел из углеродного волокна.\\n\\n<i>«Где взял? А зачем тебе знать?» — Бут, торговец оружием</i>",
@@ -19993,6 +21481,79 @@
   },
   "legacy_model": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1a_s29fKFoLM-RHGaGztF6ueZhW2fnxU904mnQy9atcXPDbgAmXsNyQe5Ysxi6moHuN-_m4g3eid9Czn2rkGoXuZcB6ljd",
+  "original": {
+   "name": "weapon_bizon"
+  }
+ },
+ {
+  "id": "skin-fb5805d13a5e",
+  "name": "ПП-19 «Бизон» | RMX",
+  "description": "У пистолета-пулемёта «Бизон» низкий урон, который компенсируется уникальным вместительным шнековым магазином с быстрой перезарядкой. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "weapon": {
+   "id": "weapon_bizon",
+   "weapon_id": 26,
+   "name": "ПП-19 «Бизон»"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "ПП"
+  },
+  "pattern": {
+   "id": "bizon_rmx",
+   "name": "RMX"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1418",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_rmx_light_png.png",
   "original": {
    "name": "weapon_bizon"
   }
@@ -27305,6 +28866,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_OSAmuZxvx3tudWQyC0nQlp52rQmNv_IC7DaFR0ApB4QbMKs0W8k9zuPr6xtAGMjoITmymohyMa6jErvbhrxmEjWA",
+  "original": {
+   "name": "weapon_deagle"
+  }
+ },
+ {
+  "id": "skin-2bcac1c42296",
+  "name": "Desert Eagle | Firebreathing",
+  "description": "Дорогой и крайне мощный Desert Eagle — знаковый пистолет, который непросто освоить, хоть он и удивительно точен на дальних дистанциях. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "weapon": {
+   "id": "weapon_deagle",
+   "weapon_id": 1,
+   "name": "Desert Eagle"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Пистолеты"
+  },
+  "pattern": {
+   "id": "deagle_firebreathing",
+   "name": "Firebreathing"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Запрещённое",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1430",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_firebreathing_light_png.png",
   "original": {
    "name": "weapon_deagle"
   }
@@ -36319,6 +37953,79 @@
   }
  },
  {
+  "id": "skin-19e064301c88",
+  "name": "Five-SeveN | Dark Polymer",
+  "description": "Five-Seven стоит дорого и медленно перезаряжается, однако эти недостатки компенсируются высокой точностью, бронебойностью, щедрым магазином на 20 патронов и снисходительной отдачей. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "weapon": {
+   "id": "weapon_fiveseven",
+   "weapon_id": 3,
+   "name": "Five-SeveN"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Пистолеты"
+  },
+  "pattern": {
+   "id": "fiveseven_polymer_dark",
+   "name": "Dark Polymer"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1429",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Спецназ"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_polymer_dark_light_png.png",
+  "original": {
+   "name": "weapon_fiveseven"
+  }
+ },
+ {
   "id": "skin-df168db99441",
   "name": "Five-SeveN | Протокол «Подъём»",
   "description": "Five-Seven стоит дорого и медленно перезаряжается, однако эти недостатки компенсируются высокой точностью, бронебойностью, щедрым магазином на 20 патронов и снисходительной отдачей. Корпус окрашен в контрастные цвета. Иконка робота под целиком соответствует изображению на затворе.\\n\\n<i>Позывной: МЕХА-0272</i>",
@@ -41435,6 +43142,79 @@
   }
  },
  {
+  "id": "skin-8571b4f29f98",
+  "name": "Автомат «Галиль» | Galigator",
+  "description": "Автомат «Галиль» — относительно дешевая штурмовая винтовка у террористов, которая считается хорошим оружием на средних и дальних дистанциях. An alligator and toxic symbols have been custom painted over a green and yellow base.\\n\\n<i>CHOMP! CHOMP! CHOMP!</i>",
+  "weapon": {
+   "id": "weapon_galilar",
+   "weapon_id": 13,
+   "name": "Автомат «Галиль»"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Винтовки"
+  },
+  "pattern": {
+   "id": "galil_galigator",
+   "name": "Galigator"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Запрещённое",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1434",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Террористы"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_galil_galigator_light_png.png",
+  "original": {
+   "name": "weapon_galilar"
+  }
+ },
+ {
   "id": "skin-3d7cafe33cee",
   "name": "Автомат «Галиль» | Невозмутимость",
   "description": "Автомат «Галиль» — относительно дешевая штурмовая винтовка у террористов, которая считается хорошим оружием на средних и дальних дистанциях. Частично окрашено синей металлической краской. На магазин и приклад нанесен логотип создателя.\\n\\n<i>Рано или поздно пути ученика и наставника расходятся</i>",
@@ -46072,6 +47852,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tuKP-eHmKC_uJ_t-l9ASvik00m5TmEzd-geSiQPARxX5IiTLIMtBW4l9zmNuPr4VbbjItHxC_gznQeqLQCTjk",
+  "original": {
+   "name": "weapon_glock"
+  }
+ },
+ {
+  "id": "skin-ec359b168d17",
+  "name": "Glock-18 | Fully Tuned",
+  "description": "Пистолет Glock-18 подходит для первого раунда. Он наиболее эффективен против противников без бронежилета и может вести огонь очередями из трёх выстрелов. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Пистолеты"
+  },
+  "pattern": {
+   "id": "glock_jdpeek",
+   "name": "Fully Tuned"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Тайное",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1421",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Террористы"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_jdpeek_light_png.png",
   "original": {
    "name": "weapon_glock"
   }
@@ -88381,6 +90234,79 @@
   }
  },
  {
+  "id": "skin-526e890d5739",
+  "name": "M249 | Bock Blocks",
+  "description": "Пулемет M249 хорош на открытых пространствах и идеально подходит игрокам, готовым мириться с медленным темпом стрельбы ради вместительного магазина и повышенной точности. It has been custom painted with a purple graphic geometric design.\\n\\n<i>Stack 'em</i>",
+  "weapon": {
+   "id": "weapon_m249",
+   "weapon_id": 14,
+   "name": "M249"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Тяжелое"
+  },
+  "pattern": {
+   "id": "m249_blocks_purple",
+   "name": "Bock Blocks"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1435",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_m249_blocks_purple_light_png.png",
+  "original": {
+   "name": "weapon_m249"
+  }
+ },
+ {
   "id": "skin-c7c133807ad6",
   "name": "M249 | Гипнотизёр",
   "description": "Пулемет M249 хорош на открытых пространствах и идеально подходит игрокам, готовым мириться с медленным темпом стрельбы ради вместительного магазина и повышенной точности. На корпус нанесён эффектный чёрно-синий гипнотический рисунок.\\n\\n<i>«Сосредоточьтесь на звучании моего голоса»</i>",
@@ -92339,6 +94265,79 @@
   }
  },
  {
+  "id": "skin-ca4c3950bda2",
+  "name": "M4A4 | Zubastick",
+  "description": "M4A4 — более точный, но слабый аналог АК-47 — полностью автоматическая штурмовая винтовка, которая находится исключительно на вооружении у спецназа. Teeth and orange eyes have been hand painted on this M4A4.\\n\\n<i>Circa 1991</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Винтовки"
+  },
+  "pattern": {
+   "id": "m4a4_zubastick_bw",
+   "name": "Zubastick"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1432",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Спецназ"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_zubastick_bw_light_png.png",
+  "original": {
+   "name": "weapon_m4a1"
+  }
+ },
+ {
   "id": "skin-81eee26a1c31",
   "name": "M4A1-S | Градиент",
   "description": "Бесшумный карабин M4A1 оснащен менее вместительным магазином, чем его аналог без глушителя, зато он обеспечивает более тихую стрельбу с меньшей отдачей и повышенной точностью. Корпус покрыт хромовой основой, которую с помощью баллончика покрасили в полупрозрачные, плавно переходящие друг в друга цвета.<i>\\n\\n«Это не только оружие, но и весомый аргумент в разговоре», — Имоген, начинающая торговка оружием</i>",
@@ -95360,6 +97359,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ux6seJicCW8gQg0jDGMnYftb3-eOgEpDcFyQuMMtRG8kIbhMuK051ba2IMQyH6r3yof5ilv4bwLWfU7uvqA7qRNHGA",
+  "original": {
+   "name": "weapon_m4a1_silencer"
+  }
+ },
+ {
+  "id": "skin-62ecfa87b86d",
+  "name": "M4A1-S | Electrum",
+  "description": "Бесшумный карабин M4A1 оснащен менее вместительным магазином, чем его аналог без глушителя, зато он обеспечивает более тихую стрельбу с меньшей отдачей и повышенной точностью. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Винтовки"
+  },
+  "pattern": {
+   "id": "m4a1s_electrum",
+   "name": "Electrum"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Запрещённое",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1433",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Спецназ"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_electrum_light_png.png",
   "original": {
    "name": "weapon_m4a1_silencer"
   }
@@ -107510,6 +109582,79 @@
   }
  },
  {
+  "id": "skin-55d44f236355",
+  "name": "MP7 | Amberline",
+  "description": "Универсальный, но дорогой пистолет-пулемёт немецкого производства MP7 — идеальный выбор для перестрелки на ближних дистанциях. It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "ПП"
+  },
+  "pattern": {
+   "id": "mp7_amberline",
+   "name": "Amberline"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Запрещённое",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1436",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_amberline_light_png.png",
+  "original": {
+   "name": "weapon_mp7"
+  }
+ },
+ {
   "id": "skin-48f9126df040",
   "name": "MP7 | Улыбочка",
   "description": "Универсальный, но дорогой пистолет-пулемёт немецкого производства MP7 — идеальный выбор для перестрелки на ближних дистанциях. Сине-фиолетовая основа дополнена смайликом и словами «Просто улыбайся», написанными жёлтым.\\n\\n<i>«Сейчас вылетит птичка!»</i>",
@@ -111136,6 +113281,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0PyrcLF-H_yaCW-Ej7ohs7Q5FnDqx0t152XdzI36cCnDaAZyDJNzRuVYsBa4kYHgZbyx4ALAy9USEWUfUe0",
+  "original": {
+   "name": "weapon_mp9"
+  }
+ },
+ {
+  "id": "skin-36e373c7de1c",
+  "name": "MP9 | Urban Sovereign",
+  "description": "Производимый в Швейцарии передовой пистолет-пулемёт МР9 — это эргономичное полимерное оружие, используемое частными охранными фирмами. It has been custom painted with an urban material design and finished with gold graffiti.\\n\\n<i>Kings don't hide behind walls, they paint them</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "ПП"
+  },
+  "pattern": {
+   "id": "mp9_urban_sovereign",
+   "name": "Urban Sovereign"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Запрещённое",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1423",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Спецназ"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_urban_sovereign_light_png.png",
   "original": {
    "name": "weapon_mp9"
   }
@@ -120969,6 +123187,79 @@
   }
  },
  {
+  "id": "skin-2f5828f37817",
+  "name": "P250 | Kintsugi",
+  "description": "Пистолет P250 — огнестрельное оружие с высоким темпом стрельбы и низкой отдачей, представляющее собой относительно недорогой выбор против бронированных противников. A striking orange bird and gold accents have been custom painted over an ivory-colored base.\\n\\n<i>Like those fancy dinner plates, this weapon's only used for special occasions</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Пистолеты"
+  },
+  "pattern": {
+   "id": "p250_kintsugi",
+   "name": "Kintsugi"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Засекреченное",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1420",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_kintsugi_light_png.png",
+  "original": {
+   "name": "weapon_p250"
+  }
+ },
+ {
   "id": "skin-9ff7bce8cb4e",
   "name": "P250 | Оксид меди",
   "description": "Пистолет P250 — огнестрельное оружие с высоким темпом стрельбы и низкой отдачей, представляющее собой относительно недорогой выбор против бронированных противников. Оружие окрашено в сплошные голубой и розовый цвета.\\n\\n<i>«Я решила попробовать иной подход. Скажи, что думаешь», — Юкако, оружейница</i>",
@@ -124860,6 +127151,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7XsL0PChZ7d5H_KfG2KvzedxuPUnTHrlzU9xt2qHzd-rJ3yQb1cmXJNzF-Vc5BS6wdLjMe60tAyP3dhNzTK-0H3NvEQllg",
+  "original": {
+   "name": "weapon_p90"
+  }
+ },
+ {
+  "id": "skin-612576d81a84",
+  "name": "P90 | Deathgaze",
+  "description": "P90 легко узнать по уникальному дизайну под названием «булл-пап». Это оружие великолепно подходит для стрельбы на ходу благодаря высокой ёмкости магазина и низкой отдаче. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "weapon": {
+   "id": "weapon_p90",
+   "weapon_id": 19,
+   "name": "P90"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "ПП"
+  },
+  "pattern": {
+   "id": "p90_deathgaze",
+   "name": "Deathgaze"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Засекреченное",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1419",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_p90_deathgaze_light_png.png",
   "original": {
    "name": "weapon_p90"
   }
@@ -130277,6 +132641,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcaFSIvGHB2yvxPdzo95lRi67gVNxsGjUzIz9ci7DblclD5d1Ee5esEO4mt3vN7_g5VeIj4xAzi2r23kb8G81tFlYllZq",
+  "original": {
+   "name": "weapon_sawedoff"
+  }
+ },
+ {
+  "id": "skin-39ceb900b437",
+  "name": "Обрез | Fusion",
+  "description": "Классический обрез наносит большой урон на ближних дистанциях, но имеет невысокую точность, высокий разброс и медленную скорость стрельбы, поэтому вам лучше бы поскорее убивать то, во что вы попали. It has been custom painted with a black and gold design. Additional details are revealed in different lighting conditions.\\n\\n<i>Eye've seen things...</i>",
+  "weapon": {
+   "id": "weapon_sawedoff",
+   "weapon_id": 29,
+   "name": "Обрез"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Тяжелое"
+  },
+  "pattern": {
+   "id": "sawedoff_fusion",
+   "name": "Fusion"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1427",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Террористы"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_fusion_light_png.png",
   "original": {
    "name": "weapon_sawedoff"
   }
@@ -147032,6 +149469,79 @@
   }
  },
  {
+  "id": "skin-40743fbc40a8",
+  "name": "UMP-45 | Fragment",
+  "description": "Пистолет-пулемёт UMP45 часто не воспринимают всерьёз, хотя небольшой магазин является его единственным недостатком. В остальном же это весьма универсальное оружие для боя на ближней дистанции. It has been custom painted with a silver, black, and red design.\\n\\n<i>Gone fraggin'</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "ПП"
+  },
+  "pattern": {
+   "id": "ump_fragment",
+   "name": "Fragment"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1426",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Обе команды"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_ump_fragment_light_png.png",
+  "original": {
+   "name": "weapon_ump45"
+  }
+ },
+ {
   "id": "skin-d5765bdffe44",
   "name": "UMP-45 | Поздняя поездка",
   "description": "Пистолет-пулемёт UMP45 часто не воспринимают всерьёз, хотя небольшой магазин является его единственным недостатком. В остальном же это весьма универсальное оружие для боя на ближней дистанции. На корпус нанесено изображение вымышленных маршрутных линий, созданных на основе карт Counter-Strike.\\n\\n<i>«Поезд прибывает на четвёртую станцию зелёной ветки — Dust II»</i>",
@@ -150429,6 +152939,79 @@
   },
   "legacy_model": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViUzulxqd5lRi67gVMl62nUyd2scnOVPAcgA5J2TOFY5xLrlN22YbzgsQaI2IlHyiWojnwa8G81tErOD-_J",
+  "original": {
+   "name": "weapon_usp_silencer"
+  }
+ },
+ {
+  "id": "skin-12f8829b002d",
+  "name": "USP-S | Silent Shot",
+  "description": "Пистолет USP, любимец игроков в Counter-Strike: Source, имеет отсоединяемый глушитель, который уменьшает отдачу, одновременно поглощая привлекающий внимание шум. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "weapon": {
+   "id": "weapon_usp_silencer",
+   "weapon_id": 61,
+   "name": "USP-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Пистолеты"
+  },
+  "pattern": {
+   "id": "usps_silent_boy",
+   "name": "Silent Shot"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Армейское качество",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1431",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Прямо с завода"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Немного поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "После полевых испытаний"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Поношенное"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Закалённое в боях"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-37",
+    "name": "The Dead Hand Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_37.svg"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5181",
+    "name": "Sealed Dead Hand Terminal",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_37_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Спецназ"
+  },
+  "legacy_model": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_silent_boy_light_png.png",
   "original": {
    "name": "weapon_usp_silencer"
   }
