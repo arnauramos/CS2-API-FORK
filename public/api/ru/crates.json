@@ -115539,7 +115539,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -117385,7 +117385,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -125978,7 +125978,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -134015,7 +134015,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -142663,7 +142663,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -142897,7 +142897,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Жар Солнца",
+    "name": "MP7 | Sunbaked",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -151781,7 +151781,7 @@
  },
  {
   "id": "crate-5181",
-  "name": "Sealed Dead Hand Terminal",
+  "name": "Неактивный терминал «Мёртвая рука»",
   "description": null,
   "def_index": "5181",
   "type": null,
