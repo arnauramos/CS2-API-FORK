@@ -124150,8 +124150,8 @@
  },
  {
   "id": "crate-4914",
-  "name": "Ящик с музыкой от NIGHTMODE",
-  "description": "Этот ящик содержит различные наборы музыки от NIGHTMODE.",
+  "name": "Ящик с музыкой NIGHTMODE",
+  "description": "Этот ящик содержит различные наборы музыки от исполнителей с лейбла NIGHTMODE.",
   "def_index": "4914",
   "type": "Music Kit Box",
   "first_sale_date": "2024/01/24",
@@ -124235,8 +124235,8 @@
  },
  {
   "id": "crate-4915",
-  "name": "Ящик с музыкой от NIGHTMODE — StatTrak™",
-  "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от NIGHTMODE.",
+  "name": "Ящик с музыкой NIGHTMODE — StatTrak™",
+  "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от исполнителей с лейбла NIGHTMODE.",
   "def_index": "4915",
   "type": "Music Kit Box",
   "first_sale_date": "2024/01/24",
