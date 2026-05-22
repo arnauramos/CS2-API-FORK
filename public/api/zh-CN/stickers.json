@@ -394754,7 +394754,7 @@
  },
  {
   "id": "sticker-10461",
-  "name": "印花 | Sinners | Cologne 2026",
+  "name": "印花 | SINNERS | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10461",
   "rarity": {
@@ -394776,7 +394776,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | Sinners | Cologne 2026",
+  "market_hash_name": "Sticker | SINNERS | Cologne 2026",
   "effect": "Other",
   "tournament": {
    "id": 26,
@@ -394790,7 +394790,7 @@
  },
  {
   "id": "sticker-10462",
-  "name": "印花 | Sinners (Foil) | Cologne 2026",
+  "name": "印花 | SINNERS (Foil) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10462",
   "rarity": {
@@ -394812,7 +394812,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | Sinners (Foil) | Cologne 2026",
+  "market_hash_name": "Sticker | SINNERS (Foil) | Cologne 2026",
   "effect": "Foil",
   "tournament": {
    "id": 26,
@@ -394826,7 +394826,7 @@
  },
  {
   "id": "sticker-10463",
-  "name": "印花 | Sinners (Holo) | Cologne 2026",
+  "name": "印花 | SINNERS (Holo) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10463",
   "rarity": {
@@ -394848,7 +394848,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | Sinners (Holo) | Cologne 2026",
+  "market_hash_name": "Sticker | SINNERS (Holo) | Cologne 2026",
   "effect": "Holo",
   "tournament": {
    "id": 26,
@@ -394862,7 +394862,7 @@
  },
  {
   "id": "sticker-10464",
-  "name": "印花 | Sinners (Gold) | Cologne 2026",
+  "name": "印花 | SINNERS (Gold) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10464",
   "rarity": {
@@ -394884,7 +394884,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | Sinners (Gold) | Cologne 2026",
+  "market_hash_name": "Sticker | SINNERS (Gold) | Cologne 2026",
   "effect": "Gold",
   "tournament": {
    "id": 26,
@@ -395878,7 +395878,7 @@
  },
  {
   "id": "sticker-10489",
-  "name": "印花 | THUNDER dOWNUNDER | Cologne 2026",
+  "name": "印花 | THUNDERdOWNUNDER | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10489",
   "rarity": {
@@ -395900,7 +395900,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | THUNDER dOWNUNDER | Cologne 2026",
+  "market_hash_name": "Sticker | THUNDERdOWNUNDER | Cologne 2026",
   "effect": "Other",
   "tournament": {
    "id": 26,
@@ -395914,7 +395914,7 @@
  },
  {
   "id": "sticker-10490",
-  "name": "印花 | THUNDER dOWNUNDER (Foil) | Cologne 2026",
+  "name": "印花 | THUNDERdOWNUNDER (Foil) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10490",
   "rarity": {
@@ -395936,7 +395936,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | THUNDER dOWNUNDER (Foil) | Cologne 2026",
+  "market_hash_name": "Sticker | THUNDERdOWNUNDER (Foil) | Cologne 2026",
   "effect": "Foil",
   "tournament": {
    "id": 26,
@@ -395950,7 +395950,7 @@
  },
  {
   "id": "sticker-10491",
-  "name": "印花 | THUNDER dOWNUNDER (Holo) | Cologne 2026",
+  "name": "印花 | THUNDERdOWNUNDER (Holo) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10491",
   "rarity": {
@@ -395972,7 +395972,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | THUNDER dOWNUNDER (Holo) | Cologne 2026",
+  "market_hash_name": "Sticker | THUNDERdOWNUNDER (Holo) | Cologne 2026",
   "effect": "Holo",
   "tournament": {
    "id": 26,
@@ -395986,7 +395986,7 @@
  },
  {
   "id": "sticker-10492",
-  "name": "印花 | THUNDER dOWNUNDER (Gold) | Cologne 2026",
+  "name": "印花 | THUNDERdOWNUNDER (Gold) | Cologne 2026",
   "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。",
   "def_index": "10492",
   "rarity": {
@@ -396008,7 +396008,7 @@
   ],
   "collections": [],
   "type": "Team",
-  "market_hash_name": "Sticker | THUNDER dOWNUNDER (Gold) | Cologne 2026",
+  "market_hash_name": "Sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026",
   "effect": "Gold",
   "tournament": {
    "id": 26,
@@ -400211,7 +400211,7 @@
  {
   "id": "sticker-10614",
   "name": "印花 | Jame | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ali Dzhami playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ali Dzhami playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10614",
   "rarity": {
    "id": "rarity_rare",
@@ -400259,7 +400259,7 @@
  {
   "id": "sticker-10615",
   "name": "印花 | Jame (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ali Dzhami playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ali Dzhami playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10615",
   "rarity": {
    "id": "rarity_mythical",
@@ -400307,7 +400307,7 @@
  {
   "id": "sticker-10616",
   "name": "印花 | Jame (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ali Dzhami playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ali Dzhami playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10616",
   "rarity": {
    "id": "rarity_legendary",
@@ -400355,7 +400355,7 @@
  {
   "id": "sticker-10617",
   "name": "印花 | Jame (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ali Dzhami playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ali Dzhami playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10617",
   "rarity": {
    "id": "rarity_ancient",
@@ -400403,7 +400403,7 @@
  {
   "id": "sticker-10618",
   "name": "印花 | nota | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Emil Moskvitin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Emil Moskvitin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10618",
   "rarity": {
    "id": "rarity_rare",
@@ -400451,7 +400451,7 @@
  {
   "id": "sticker-10619",
   "name": "印花 | nota (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Emil Moskvitin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Emil Moskvitin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10619",
   "rarity": {
    "id": "rarity_mythical",
@@ -400499,7 +400499,7 @@
  {
   "id": "sticker-10620",
   "name": "印花 | nota (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Emil Moskvitin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Emil Moskvitin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10620",
   "rarity": {
    "id": "rarity_legendary",
@@ -400547,7 +400547,7 @@
  {
   "id": "sticker-10621",
   "name": "印花 | nota (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Emil Moskvitin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Emil Moskvitin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10621",
   "rarity": {
    "id": "rarity_ancient",
@@ -400595,7 +400595,7 @@
  {
   "id": "sticker-10622",
   "name": "印花 | xiELO | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Vladislav Lysov playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Vladislav Lysov playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10622",
   "rarity": {
    "id": "rarity_rare",
@@ -400643,7 +400643,7 @@
  {
   "id": "sticker-10623",
   "name": "印花 | xiELO (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Vladislav Lysov playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Vladislav Lysov playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10623",
   "rarity": {
    "id": "rarity_mythical",
@@ -400691,7 +400691,7 @@
  {
   "id": "sticker-10624",
   "name": "印花 | xiELO (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Vladislav Lysov playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Vladislav Lysov playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10624",
   "rarity": {
    "id": "rarity_legendary",
@@ -400739,7 +400739,7 @@
  {
   "id": "sticker-10625",
   "name": "印花 | xiELO (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Vladislav Lysov playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Vladislav Lysov playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10625",
   "rarity": {
    "id": "rarity_ancient",
@@ -400787,7 +400787,7 @@
  {
   "id": "sticker-10626",
   "name": "印花 | BELCHONOKK | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Andrei Iasinskii playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Andrei Iasinskii playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10626",
   "rarity": {
    "id": "rarity_rare",
@@ -400835,7 +400835,7 @@
  {
   "id": "sticker-10627",
   "name": "印花 | BELCHONOKK (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Andrei Iasinskii playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Andrei Iasinskii playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10627",
   "rarity": {
    "id": "rarity_mythical",
@@ -400883,7 +400883,7 @@
  {
   "id": "sticker-10628",
   "name": "印花 | BELCHONOKK (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Andrei Iasinskii playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Andrei Iasinskii playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10628",
   "rarity": {
    "id": "rarity_legendary",
@@ -400931,7 +400931,7 @@
  {
   "id": "sticker-10629",
   "name": "印花 | BELCHONOKK (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Andrei Iasinskii playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Andrei Iasinskii playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10629",
   "rarity": {
    "id": "rarity_ancient",
@@ -400979,7 +400979,7 @@
  {
   "id": "sticker-10630",
   "name": "印花 | zweih | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ivan Gogin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ivan Gogin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10630",
   "rarity": {
    "id": "rarity_rare",
@@ -401027,7 +401027,7 @@
  {
   "id": "sticker-10631",
   "name": "印花 | zweih (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ivan Gogin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ivan Gogin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10631",
   "rarity": {
    "id": "rarity_mythical",
@@ -401075,7 +401075,7 @@
  {
   "id": "sticker-10632",
   "name": "印花 | zweih (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ivan Gogin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ivan Gogin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10632",
   "rarity": {
    "id": "rarity_legendary",
@@ -401123,7 +401123,7 @@
  {
   "id": "sticker-10633",
   "name": "印花 | zweih (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ivan Gogin playing for Parivision at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ivan Gogin playing for PARIVISION at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10633",
   "rarity": {
    "id": "rarity_ancient",
@@ -418571,7 +418571,7 @@
  {
   "id": "sticker-10994",
   "name": "印花 | beastik | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Sebastian Daňo playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Sebastian Daňo playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10994",
   "rarity": {
    "id": "rarity_rare",
@@ -418614,7 +418614,7 @@
  {
   "id": "sticker-10995",
   "name": "印花 | beastik (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Sebastian Daňo playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Sebastian Daňo playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10995",
   "rarity": {
    "id": "rarity_mythical",
@@ -418657,7 +418657,7 @@
  {
   "id": "sticker-10996",
   "name": "印花 | beastik (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Sebastian Daňo playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Sebastian Daňo playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10996",
   "rarity": {
    "id": "rarity_legendary",
@@ -418700,7 +418700,7 @@
  {
   "id": "sticker-10997",
   "name": "印花 | beastik (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Sebastian Daňo playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Sebastian Daňo playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10997",
   "rarity": {
    "id": "rarity_ancient",
@@ -418743,7 +418743,7 @@
  {
   "id": "sticker-10998",
   "name": "印花 | SHOCK | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Max Kvapil playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Max Kvapil playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10998",
   "rarity": {
    "id": "rarity_rare",
@@ -418786,7 +418786,7 @@
  {
   "id": "sticker-10999",
   "name": "印花 | SHOCK (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Max Kvapil playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Max Kvapil playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "10999",
   "rarity": {
    "id": "rarity_mythical",
@@ -418829,7 +418829,7 @@
  {
   "id": "sticker-11000",
   "name": "印花 | SHOCK (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Max Kvapil playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Max Kvapil playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11000",
   "rarity": {
    "id": "rarity_legendary",
@@ -418872,7 +418872,7 @@
  {
   "id": "sticker-11001",
   "name": "印花 | SHOCK (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Max Kvapil playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Max Kvapil playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11001",
   "rarity": {
    "id": "rarity_ancient",
@@ -418915,7 +418915,7 @@
  {
   "id": "sticker-11002",
   "name": "印花 | MoDo | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Mădălin-Andrei Mirea playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Mădălin-Andrei Mirea playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11002",
   "rarity": {
    "id": "rarity_rare",
@@ -418958,7 +418958,7 @@
  {
   "id": "sticker-11003",
   "name": "印花 | MoDo (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Mădălin-Andrei Mirea playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Mădălin-Andrei Mirea playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11003",
   "rarity": {
    "id": "rarity_mythical",
@@ -419001,7 +419001,7 @@
  {
   "id": "sticker-11004",
   "name": "印花 | MoDo (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Mădălin-Andrei Mirea playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Mădălin-Andrei Mirea playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11004",
   "rarity": {
    "id": "rarity_legendary",
@@ -419044,7 +419044,7 @@
  {
   "id": "sticker-11005",
   "name": "印花 | MoDo (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Mădălin-Andrei Mirea playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Mădălin-Andrei Mirea playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11005",
   "rarity": {
    "id": "rarity_ancient",
@@ -419087,7 +419087,7 @@
  {
   "id": "sticker-11006",
   "name": "印花 | kisserek | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Kamil Banak playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Kamil Banak playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11006",
   "rarity": {
    "id": "rarity_rare",
@@ -419130,7 +419130,7 @@
  {
   "id": "sticker-11007",
   "name": "印花 | kisserek (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Kamil Banak playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Kamil Banak playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11007",
   "rarity": {
    "id": "rarity_mythical",
@@ -419173,7 +419173,7 @@
  {
   "id": "sticker-11008",
   "name": "印花 | kisserek (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Kamil Banak playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Kamil Banak playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11008",
   "rarity": {
    "id": "rarity_legendary",
@@ -419216,7 +419216,7 @@
  {
   "id": "sticker-11009",
   "name": "印花 | kisserek (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Kamil Banak playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Kamil Banak playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11009",
   "rarity": {
    "id": "rarity_ancient",
@@ -419259,7 +419259,7 @@
  {
   "id": "sticker-11010",
   "name": "印花 | stressarN | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Jordan Manevski playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Jordan Manevski playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11010",
   "rarity": {
    "id": "rarity_rare",
@@ -419302,7 +419302,7 @@
  {
   "id": "sticker-11011",
   "name": "印花 | stressarN (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Jordan Manevski playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Jordan Manevski playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11011",
   "rarity": {
    "id": "rarity_mythical",
@@ -419345,7 +419345,7 @@
  {
   "id": "sticker-11012",
   "name": "印花 | stressarN (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Jordan Manevski playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Jordan Manevski playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11012",
   "rarity": {
    "id": "rarity_legendary",
@@ -419388,7 +419388,7 @@
  {
   "id": "sticker-11013",
   "name": "印花 | stressarN (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Jordan Manevski playing for Sinners at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Jordan Manevski playing for SINNERS at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11013",
   "rarity": {
    "id": "rarity_ancient",
@@ -420411,7 +420411,7 @@
  {
   "id": "sticker-11034",
   "name": "印花 | Mercury | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Jingxiang Wang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Jingxiang Wang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11034",
   "rarity": {
    "id": "rarity_rare",
@@ -420460,7 +420460,7 @@
  {
   "id": "sticker-11035",
   "name": "印花 | Mercury (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Jingxiang Wang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Jingxiang Wang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11035",
   "rarity": {
    "id": "rarity_mythical",
@@ -420509,7 +420509,7 @@
  {
   "id": "sticker-11036",
   "name": "印花 | Mercury (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Jingxiang Wang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Jingxiang Wang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11036",
   "rarity": {
    "id": "rarity_legendary",
@@ -420558,7 +420558,7 @@
  {
   "id": "sticker-11037",
   "name": "印花 | Mercury (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Jingxiang Wang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Jingxiang Wang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11037",
   "rarity": {
    "id": "rarity_ancient",
@@ -420607,7 +420607,7 @@
  {
   "id": "sticker-11038",
   "name": "印花 | Jee | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ji Dongkai playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Ji Dongkai playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11038",
   "rarity": {
    "id": "rarity_rare",
@@ -420656,7 +420656,7 @@
  {
   "id": "sticker-11039",
   "name": "印花 | Jee (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ji Dongkai playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Ji Dongkai playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11039",
   "rarity": {
    "id": "rarity_mythical",
@@ -420705,7 +420705,7 @@
  {
   "id": "sticker-11040",
   "name": "印花 | Jee (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ji Dongkai playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Ji Dongkai playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11040",
   "rarity": {
    "id": "rarity_legendary",
@@ -420754,7 +420754,7 @@
  {
   "id": "sticker-11041",
   "name": "印花 | Jee (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ji Dongkai playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Ji Dongkai playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11041",
   "rarity": {
    "id": "rarity_ancient",
@@ -420803,7 +420803,7 @@
  {
   "id": "sticker-11042",
   "name": "印花 | JamYoung | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Yi Yang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Yi Yang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11042",
   "rarity": {
    "id": "rarity_rare",
@@ -420852,7 +420852,7 @@
  {
   "id": "sticker-11043",
   "name": "印花 | JamYoung (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Yi Yang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Yi Yang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11043",
   "rarity": {
    "id": "rarity_mythical",
@@ -420901,7 +420901,7 @@
  {
   "id": "sticker-11044",
   "name": "印花 | JamYoung (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Yi Yang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Yi Yang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11044",
   "rarity": {
    "id": "rarity_legendary",
@@ -420950,7 +420950,7 @@
  {
   "id": "sticker-11045",
   "name": "印花 | JamYoung (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Yi Yang playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Yi Yang playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11045",
   "rarity": {
    "id": "rarity_ancient",
@@ -420999,7 +420999,7 @@
  {
   "id": "sticker-11046",
   "name": "印花 | Moseyuh | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Qianhao Chen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Qianhao Chen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11046",
   "rarity": {
    "id": "rarity_rare",
@@ -421048,7 +421048,7 @@
  {
   "id": "sticker-11047",
   "name": "印花 | Moseyuh (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Qianhao Chen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Qianhao Chen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11047",
   "rarity": {
    "id": "rarity_mythical",
@@ -421097,7 +421097,7 @@
  {
   "id": "sticker-11048",
   "name": "印花 | Moseyuh (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Qianhao Chen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Qianhao Chen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11048",
   "rarity": {
    "id": "rarity_legendary",
@@ -421146,7 +421146,7 @@
  {
   "id": "sticker-11049",
   "name": "印花 | Moseyuh (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Qianhao Chen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Qianhao Chen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11049",
   "rarity": {
    "id": "rarity_ancient",
@@ -421195,7 +421195,7 @@
  {
   "id": "sticker-11050",
   "name": "印花 | Zero  | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Su Jingshen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Su Jingshen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11050",
   "rarity": {
    "id": "rarity_rare",
@@ -421244,7 +421244,7 @@
  {
   "id": "sticker-11051",
   "name": "印花 | Zero (Foil)  | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Su Jingshen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Su Jingshen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11051",
   "rarity": {
    "id": "rarity_mythical",
@@ -421293,7 +421293,7 @@
  {
   "id": "sticker-11052",
   "name": "印花 | Zero (Holo)  | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Su Jingshen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Su Jingshen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11052",
   "rarity": {
    "id": "rarity_legendary",
@@ -421342,7 +421342,7 @@
  {
   "id": "sticker-11053",
   "name": "印花 | Zero (Gold)  | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Su Jingshen playing for Tyloo at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Su Jingshen playing for TYLOO at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11053",
   "rarity": {
    "id": "rarity_ancient",
@@ -425171,7 +425171,7 @@
  {
   "id": "sticker-11134",
   "name": "印花 | dexter | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Christopher Nong playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Christopher Nong playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11134",
   "rarity": {
    "id": "rarity_rare",
@@ -425214,7 +425214,7 @@
  {
   "id": "sticker-11135",
   "name": "印花 | dexter (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Christopher Nong playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Christopher Nong playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11135",
   "rarity": {
    "id": "rarity_mythical",
@@ -425257,7 +425257,7 @@
  {
   "id": "sticker-11136",
   "name": "印花 | dexter (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Christopher Nong playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Christopher Nong playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11136",
   "rarity": {
    "id": "rarity_legendary",
@@ -425300,7 +425300,7 @@
  {
   "id": "sticker-11137",
   "name": "印花 | dexter (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Christopher Nong playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Christopher Nong playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11137",
   "rarity": {
    "id": "rarity_ancient",
@@ -425343,7 +425343,7 @@
  {
   "id": "sticker-11138",
   "name": "印花 | Liazz | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player John Tregillgas playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player John Tregillgas playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11138",
   "rarity": {
    "id": "rarity_rare",
@@ -425386,7 +425386,7 @@
  {
   "id": "sticker-11139",
   "name": "印花 | Liazz (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player John Tregillgas playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player John Tregillgas playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11139",
   "rarity": {
    "id": "rarity_mythical",
@@ -425429,7 +425429,7 @@
  {
   "id": "sticker-11140",
   "name": "印花 | Liazz (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player John Tregillgas playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player John Tregillgas playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11140",
   "rarity": {
    "id": "rarity_legendary",
@@ -425472,7 +425472,7 @@
  {
   "id": "sticker-11141",
   "name": "印花 | Liazz (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player John Tregillgas playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player John Tregillgas playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11141",
   "rarity": {
    "id": "rarity_ancient",
@@ -425515,7 +425515,7 @@
  {
   "id": "sticker-11142",
   "name": "印花 | aliStair | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Alistair Johnston playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Alistair Johnston playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11142",
   "rarity": {
    "id": "rarity_rare",
@@ -425558,7 +425558,7 @@
  {
   "id": "sticker-11143",
   "name": "印花 | aliStair (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Alistair Johnston playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Alistair Johnston playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11143",
   "rarity": {
    "id": "rarity_mythical",
@@ -425601,7 +425601,7 @@
  {
   "id": "sticker-11144",
   "name": "印花 | aliStair (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Alistair Johnston playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Alistair Johnston playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11144",
   "rarity": {
    "id": "rarity_legendary",
@@ -425644,7 +425644,7 @@
  {
   "id": "sticker-11145",
   "name": "印花 | aliStair (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Alistair Johnston playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Alistair Johnston playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11145",
   "rarity": {
    "id": "rarity_ancient",
@@ -425687,7 +425687,7 @@
  {
   "id": "sticker-11146",
   "name": "印花 | asap | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Tyson Paterson playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Tyson Paterson playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11146",
   "rarity": {
    "id": "rarity_rare",
@@ -425730,7 +425730,7 @@
  {
   "id": "sticker-11147",
   "name": "印花 | asap (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Tyson Paterson playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Tyson Paterson playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11147",
   "rarity": {
    "id": "rarity_mythical",
@@ -425773,7 +425773,7 @@
  {
   "id": "sticker-11148",
   "name": "印花 | asap (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Tyson Paterson playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Tyson Paterson playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11148",
   "rarity": {
    "id": "rarity_legendary",
@@ -425816,7 +425816,7 @@
  {
   "id": "sticker-11149",
   "name": "印花 | asap (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Tyson Paterson playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Tyson Paterson playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11149",
   "rarity": {
    "id": "rarity_ancient",
@@ -425859,7 +425859,7 @@
  {
   "id": "sticker-11150",
   "name": "印花 | TjP | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Tynan Purtell playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This sticker was autographed by professional player Tynan Purtell playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11150",
   "rarity": {
    "id": "rarity_rare",
@@ -425902,7 +425902,7 @@
  {
   "id": "sticker-11151",
   "name": "印花 | TjP (Foil) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Tynan Purtell playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This foil sticker was autographed by professional player Tynan Purtell playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11151",
   "rarity": {
    "id": "rarity_mythical",
@@ -425945,7 +425945,7 @@
  {
   "id": "sticker-11152",
   "name": "印花 | TjP (Holo) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Tynan Purtell playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This holographic sticker was autographed by professional player Tynan Purtell playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11152",
   "rarity": {
    "id": "rarity_legendary",
@@ -425988,7 +425988,7 @@
  {
   "id": "sticker-11153",
   "name": "印花 | TjP (Gold) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Tynan Purtell playing for THUNDER dOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
+  "description": "<span style='color:#ffd700;'>该物品用于纪念 IEM Cologne 2026 CS2 Major Championship。</span><br/><br/> 这张印花可以应用在您所拥有的任何武器上，您也可以刮掉它，使其显得更为老旧。您可以多次刮除同一张印花，刮得次数越多，磨损程度越大。直到您将其完全从武器上刮去为止。<br><br>This gold sticker was autographed by professional player Tynan Purtell playing for THUNDERdOWNUNDER at the IEM Cologne 2026 CS2 Major Championship.",
   "def_index": "11153",
   "rarity": {
    "id": "rarity_ancient",
