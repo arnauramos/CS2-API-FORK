@@ -10541,8 +10541,8 @@
  },
  {
   "id": "collectible-5310",
-  "name": "Cologne 2026 Viewer Pass",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Пропуск зрителя IEM Cologne Major 2026",
+  "description": "Это неоткрытый пропуск зрителя на чемпионат IEM Cologne Major 2026 по CS2. Открыв его, вы получите улучшаемую монету, полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.\\n\\n50% от продаж этого пропуска получают участвующие в турнире игроки и организации.",
   "def_index": "5310",
   "rarity": {
    "id": "rarity_common",
@@ -10560,8 +10560,8 @@
  },
  {
   "id": "collectible-5311",
-  "name": "Cologne 2026 Viewer Pass + 900 Tokens",
-  "description": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Cologne 2026 Coin by completing the coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Cologne 2026 Coin with 900 Cologne 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "name": "Пропуск зрителя IEM Cologne Major 2026 + 900 жетонов",
+  "description": "Это неоткрытый пропуск зрителя на чемпионат IEM Cologne Major 2026 по CS2. Открыв его, вы получите улучшаемую монету, полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.\\n\\nЗа активацию этого пропуска вы сразу получите 900 жетонов.\\n\\n50% от продаж этого пропуска получают участвующие в турнире игроки и организации.",
   "def_index": "5311",
   "rarity": {
    "id": "rarity_common",
@@ -10579,8 +10579,8 @@
  },
  {
   "id": "collectible-5312",
-  "name": "Cologne 2026 Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Монета IEM Cologne Major 2026",
+  "description": "Эта памятная улучшаемая монета чемпионата IEM Cologne Major 2026 по CS2 даёт полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.",
   "def_index": "5312",
   "rarity": {
    "id": "rarity_ancient",
@@ -10598,8 +10598,8 @@
  },
  {
   "id": "collectible-5313",
-  "name": "Cologne 2026 Silver Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Серебряная монета IEM Cologne Major 2026",
+  "description": "Эта памятная улучшаемая монета чемпионата IEM Cologne Major 2026 по CS2 даёт полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.",
   "def_index": "5313",
   "rarity": {
    "id": "rarity_ancient",
@@ -10617,8 +10617,8 @@
  },
  {
   "id": "collectible-5314",
-  "name": "Cologne 2026 Gold Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Золотая монета IEM Cologne Major 2026",
+  "description": "Эта памятная улучшаемая монета чемпионата IEM Cologne Major 2026 по CS2 даёт полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.",
   "def_index": "5314",
   "rarity": {
    "id": "rarity_ancient",
@@ -10636,8 +10636,8 @@
  },
  {
   "id": "collectible-5315",
-  "name": "Cologne 2026 Diamond Coin",
-  "description": "This is a commemorative IEM Cologne 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.",
+  "name": "Бриллиантовая монета IEM Cologne Major 2026",
+  "description": "Эта памятная улучшаемая монета чемпионата IEM Cologne Major 2026 по CS2 даёт полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите 300 жетонов за каждое улучшение монеты.",
   "def_index": "5315",
   "rarity": {
    "id": "rarity_ancient",
@@ -10655,8 +10655,8 @@
  },
  {
   "id": "collectible-5319",
-  "name": "Champion at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Чемпион IEM Cologne Major 2026",
+  "description": "Этот трофей вручён победителю чемпионата IEM Cologne Major 2026 по CS2.",
   "def_index": "5319",
   "rarity": {
    "id": "rarity_ancient",
@@ -10674,8 +10674,8 @@
  },
  {
   "id": "collectible-5320",
-  "name": "Finalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Finalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Финалист IEM Cologne Major 2026",
+  "description": "Этот трофей вручён финалисту чемпионата IEM Cologne Major 2026 по CS2.",
   "def_index": "5320",
   "rarity": {
    "id": "rarity_ancient",
@@ -10693,8 +10693,8 @@
  },
  {
   "id": "collectible-5321",
-  "name": "Semifinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Полуфиналист IEM Cologne Major 2026",
+  "description": "Этот трофей вручён полуфиналисту чемпионата IEM Cologne Major 2026 по CS2.",
   "def_index": "5321",
   "rarity": {
    "id": "rarity_ancient",
@@ -10712,8 +10712,8 @@
  },
  {
   "id": "collectible-5322",
-  "name": "Quarterfinalist at IEM Cologne 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Четвертьфиналист IEM Cologne Major 2026",
+  "description": "Этот трофей вручён четвертьфиналисту чемпионата IEM Cologne Major 2026 по CS2.",
   "def_index": "5322",
   "rarity": {
    "id": "rarity_ancient",
